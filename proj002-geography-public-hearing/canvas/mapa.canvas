@@ -4,10 +4,10 @@
 		{"id":"f498cd53307c606e","type":"text","text":"[[O que perdemos]]","x":-640,"y":-30,"width":250,"height":60,"color":"1"},
 		{"id":"d98ec4c808ff2ed9","type":"text","text":"# **Geografia**\n### **Audiência Pública**\n![[public-hearing.png]]","x":180,"y":-260,"width":300,"height":340,"color":"#386fa4"},
 		{"id":"fc3a3687d2dd3972","type":"text","text":"Argumentos","x":-235,"y":-290,"width":250,"height":60,"color":"#386fa4"},
-		{"id":"27645197f2d7e560","type":"text","text":"A favor","x":-390,"y":-430,"width":250,"height":60,"color":"4"},
+		{"id":"27645197f2d7e560","type":"text","text":"[[A favor]]","x":-390,"y":-430,"width":250,"height":60,"color":"4"},
 		{"id":"a89108291cfe9a6a","type":"text","text":"Contra","x":-40,"y":-430,"width":250,"height":60,"color":"1"},
 		{"id":"c8899dc2cd2f4e90","type":"text","text":"## Somos contra ou a favor?","x":-235,"y":-135,"width":250,"height":105,"color":"#386fa4"},
-		{"id":"9b7404deaa592e86","type":"text","text":"Que exigências faríamos?","x":-190,"y":140,"width":300,"height":60,"color":"#386fa4"},
+		{"id":"9b7404deaa592e86","type":"text","text":"[[Que exigências faríamos]]","x":-190,"y":140,"width":300,"height":60,"color":"#386fa4"},
 		{"id":"3131d252e7c30bba","type":"text","text":"Ambiental","x":-680,"y":-600,"width":250,"height":60,"color":"6"},
 		{"id":"c5673455e4c86342","type":"text","text":"Monopólio e concentração de poder","x":400,"y":-670,"width":360,"height":70,"color":"5"},
 		{"id":"293a0edba72a2087","type":"text","text":"Tecnologia e direitos humanos","x":-565,"y":-1000,"width":300,"height":60,"color":"3"}

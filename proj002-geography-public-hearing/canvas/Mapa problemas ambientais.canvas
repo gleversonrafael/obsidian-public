@@ -2,15 +2,15 @@
 	"nodes":[
 		{"id":"2d0ae4d9f7275203","type":"text","text":"Problemas Ambientais","x":-120,"y":160,"width":250,"height":60,"color":"2"},
 		{"id":"54fecde21d5d46ba","type":"text","text":"Fase do Campo","x":-120,"y":-100,"width":250,"height":60,"color":"1"},
-		{"id":"6ccf33b75f13f7c4","type":"text","text":"Desmatamento","x":-120,"y":-280,"width":250,"height":60,"color":"3"},
+		{"id":"6ccf33b75f13f7c4","type":"text","text":"[[Desmatamento]]","x":-120,"y":-280,"width":250,"height":60,"color":"3"},
 		{"id":"42ec6a14b948fdd8","type":"text","text":"Fase logística","x":360,"y":160,"width":250,"height":60,"color":"1"},
 		{"id":"2b2cbc019c79a6c5","type":"text","text":"Emissões de CO2","x":360,"y":0,"width":250,"height":60,"color":"2"},
 		{"id":"17de71a4f786f8bc","type":"text","text":"Fase Industrial","x":-520,"y":160,"width":250,"height":60,"color":"1"},
-		{"id":"70c46d2a75f9393f","type":"text","text":"Água","x":-520,"y":-100,"width":250,"height":60,"color":"3"},
-		{"id":"9605240a55ae6d31","type":"text","text":"Alto Consumo de água","x":-520,"y":-340,"width":250,"height":60,"color":"6"},
+		{"id":"70c46d2a75f9393f","type":"text","text":"[[Água]]","x":-520,"y":-100,"width":250,"height":60,"color":"3"},
 		{"id":"d29674f9b0aeb9e3","type":"text","text":"Poluição da água","x":-940,"y":-250,"width":250,"height":60,"color":"6"},
 		{"id":"f4d49339021b46a9","type":"text","text":"Emissão de Compostos Orgânicos Voláteis (COVs)","x":-940,"y":0,"width":250,"height":60,"color":"3"},
-		{"id":"1e06003e9a7d8cd0","type":"text","text":"Agrotóxicos","x":280,"y":-190,"width":250,"height":60,"color":"3"}
+		{"id":"1e06003e9a7d8cd0","type":"text","text":"Agrotóxicos","x":280,"y":-190,"width":250,"height":60,"color":"3"},
+		{"id":"9605240a55ae6d31","type":"text","text":"Alto Consumo de água","x":-520,"y":-340,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"98b164777ab70c7e","fromNode":"2d0ae4d9f7275203","fromSide":"top","toNode":"54fecde21d5d46ba","toSide":"bottom","color":"2"},

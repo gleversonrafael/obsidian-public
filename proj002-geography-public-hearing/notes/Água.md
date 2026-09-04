@@ -1,0 +1,5 @@
+Pergunta: 
+"A instalação de uma indústria desse porte vai consumir milhões de litros de água da nossa bacia hidrográfica e corre o risco de despejar resíduos e fluídos químicos nos rios locais, ameaçando o abastecimento da cidade. Como a empresa pretende evitar um colapso hídrico?"
+
+Resposta:
+"Esclarecemos que a indústria operará sob um sistema de **circuito fechado de reúso de água**, onde até 90% da água utilizada nos processos de resfriamento e produção é tratada e reutilizada internamente. Além disso, construiremos uma **Estação de Tratamento de Efluentes Industriais (ETEI)** de última geração. O descarte de água só ocorre após atender rigorosamente aos padrões ambientais exigidos pelo órgão estadual (como o IAT no Paraná) e pelo CONAMA. Não haverá captação desordenada nem poluição dos nossos rios."
