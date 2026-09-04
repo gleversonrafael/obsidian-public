@@ -1,0 +1,8 @@
+- Desenvolvimento da cidade
+- Gera emprego 
+- Alimenta a população 
+- Aumento da circulação de capital
+- Tecnologia
+- Mao de obra qualificada e fornecimento de empregos qualificados 
+- Maior reconhecimento internacional
+- Exportação

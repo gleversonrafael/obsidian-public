@@ -1,0 +1,3 @@
+- Alto investimento inicial em capital, 
+- custos operacionais contínuos de conformidade ambiental 
+- exposição às oscilações do mercado global de commodities.

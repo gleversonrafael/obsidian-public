@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "7d4a1ef27f4bb05d",
+    "type": "split",
+    "children": [
+      {
+        "id": "abbf120c6c440ee2",
+        "type": "tabs",
+        "dimension": 80.43052837573386,
+        "children": [
+          {
+            "id": "9d18df1df3826a45",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/mapa.canvas",
+                "viewState": {
+                  "x": 286.2985195575653,
+                  "y": -59.08352639412634,
+                  "zoom": -1.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "mapa"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7eba3e227138631f",
+        "type": "tabs",
+        "dimension": 19.569471624266143,
+        "children": [
+          {
+            "id": "8fd94a5bb14159ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/O que ganhamos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O que ganhamos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a60d7b3d7ec5d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab949a738ba455e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f684a8290edc46af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d08f1622366c82e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d230b3e20a012bfd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "919e8f03c11d5507",
+    "type": "split",
+    "children": [
+      {
+        "id": "913b07c796c6c64a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5950493263ba0892",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "canvas/mapa.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6acb09b8de778aae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "canvas/mapa.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "950471b30cd356aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "10b70711ab257347",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "be1859163fb3d060",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "canvas/mapa.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9d18df1df3826a45",
+  "lastOpenFiles": [
+    "notes/O que ganhamos.md",
+    "canvas/mapa.canvas",
+    "notes/O que perdemos.md",
+    "references/public-hearing.png",
+    "Pasted image 20260904193130.png",
+    "Início-Geografia.md",
+    "references",
+    "notes",
+    "not.canvas",
+    "canvas"
+  ]
+}
