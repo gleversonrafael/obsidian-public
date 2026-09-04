@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "2769728ab47e698c",
+    "type": "split",
+    "children": [
+      {
+        "id": "af45dcff6dc9f99a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5beb4808d41b6b6f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/roteiro-v1.0.canvas",
+                "viewState": {
+                  "x": 117.88584856432567,
+                  "y": -60.17914173024613,
+                  "zoom": -1.0095190780799939
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "roteiro-v1.0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50eb3abc680f4ae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f605842f20d8d3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4942dd859c50880c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c2ec1b206be61592",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3bc6d412204dbea9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "97ac1226ef55983c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b76eb4a9a5f9bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428f39465a910611",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Educ. F -Arremesso com Giro e Queda/roteiro.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7fa6a33ec49d74ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Educ. F -Arremesso com Giro e Queda/roteiro.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "11b6b059a05f9b5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "600bf3e974038f06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4707afb978ed7aa9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Educ. F -Arremesso com Giro e Queda/roteiro.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4942dd859c50880c",
+  "lastOpenFiles": [
+    "notes/O que é.md",
+    "canvas/roteiro-v1.0.canvas",
+    "references",
+    "notes",
+    "canvas",
+    "references/arremesso-img.png",
+    "Educ. F -Arremesso com Giro e Queda/Bem-vindo.md"
+  ]
+}

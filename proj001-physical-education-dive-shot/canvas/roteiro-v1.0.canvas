@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"2f2cd3b21869441a","type":"text","text":"Sumário","x":-180,"y":-290,"width":250,"height":60},
+		{"id":"8e9cb23bb4c19727","type":"text","text":"<span style=\"display: block; text-align: center; font-size: 30px;\">[[O que é]]</span>","x":-205,"y":-410,"width":300,"height":90},
+		{"id":"bb665fd3a22f2fe6","type":"text","text":"<h2 align=\"center\">Como fazer</h2>","x":-205,"y":-540,"width":300,"height":90},
+		{"id":"e5577c86790545e5","type":"text","text":"Quais regras e cuidados tomar","x":-180,"y":-640,"width":250,"height":60},
+		{"id":"0b8b0baf17e58782","type":"text","text":"Características","x":-500,"y":-395,"width":250,"height":60},
+		{"id":"21a503e5beb889c0","type":"text","text":"Quando fazer ","x":-500,"y":-525,"width":250,"height":60},
+		{"id":"847115b46da1c56a","type":"text","text":"Vídeo demonstrativo\nhttps://www.youtube.com/watch?v=A3qJmLO8QFE","x":280,"y":-350,"width":250,"height":120},
+		{"id":"32f7b619f0d72f79","type":"text","text":"Por que fazer","x":220,"y":-640,"width":250,"height":60},
+		{"id":"983fa23c9d9f40b8","type":"text","text":"# **Arremesso com giro** e queda\n![[arremesso-img.png]]","x":-342,"y":-160,"width":575,"height":495,"color":"3"},
+		{"id":"511e6593e75c2a4f","type":"text","text":"Principais Erros","x":-500,"y":-640,"width":250,"height":60},
+		{"id":"7962e6d67cdeafb1","type":"text","text":"Diferencial","x":-179,"y":-740,"width":250,"height":60,"color":"1"},
+		{"id":"c5b2e38e2f79a48e","type":"text","text":"Conclusão","x":-180,"y":-840,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3bde90157dcbb609","fromNode":"983fa23c9d9f40b8","fromSide":"top","toNode":"7962e6d67cdeafb1","toSide":"bottom","toEnd":"none"},
+		{"id":"014531116d2fc6c5","fromNode":"8e9cb23bb4c19727","fromSide":"left","toNode":"0b8b0baf17e58782","toSide":"right","toEnd":"none"},
+		{"id":"92e95626c1842ef3","fromNode":"bb665fd3a22f2fe6","fromSide":"right","toNode":"32f7b619f0d72f79","toSide":"left","toEnd":"none"},
+		{"id":"0b3eda7016cd7a10","fromNode":"bb665fd3a22f2fe6","fromSide":"left","toNode":"21a503e5beb889c0","toSide":"right","toEnd":"none"},
+		{"id":"f9ed3ef6a1b361e3","fromNode":"7962e6d67cdeafb1","fromSide":"bottom","toNode":"c5b2e38e2f79a48e","toSide":"bottom","toEnd":"none"},
+		{"id":"d3d45b39b7ecd328","fromNode":"8e9cb23bb4c19727","fromSide":"right","toNode":"847115b46da1c56a","toSide":"left","toEnd":"none"},
+		{"id":"046ade91197488e9","fromNode":"847115b46da1c56a","fromSide":"top","toNode":"bb665fd3a22f2fe6","toSide":"right","toEnd":"none"},
+		{"id":"0aa92d1a785144a9","fromNode":"e5577c86790545e5","fromSide":"left","toNode":"511e6593e75c2a4f","toSide":"right","toEnd":"none"}
+	]
+}
