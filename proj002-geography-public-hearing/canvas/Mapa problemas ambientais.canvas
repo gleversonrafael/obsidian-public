@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"2d0ae4d9f7275203","type":"text","text":"Problemas Ambientais","x":-120,"y":160,"width":250,"height":60,"color":"2"},
+		{"id":"54fecde21d5d46ba","type":"text","text":"Fase do Campo","x":-120,"y":-100,"width":250,"height":60,"color":"1"},
+		{"id":"6ccf33b75f13f7c4","type":"text","text":"Desmatamento","x":-120,"y":-280,"width":250,"height":60,"color":"3"},
+		{"id":"42ec6a14b948fdd8","type":"text","text":"Fase logística","x":360,"y":160,"width":250,"height":60,"color":"1"},
+		{"id":"2b2cbc019c79a6c5","type":"text","text":"Emissões de CO2","x":360,"y":0,"width":250,"height":60,"color":"2"},
+		{"id":"17de71a4f786f8bc","type":"text","text":"Fase Industrial","x":-520,"y":160,"width":250,"height":60,"color":"1"},
+		{"id":"70c46d2a75f9393f","type":"text","text":"Água","x":-520,"y":-100,"width":250,"height":60,"color":"3"},
+		{"id":"9605240a55ae6d31","type":"text","text":"Alto Consumo de água","x":-520,"y":-340,"width":250,"height":60,"color":"6"},
+		{"id":"d29674f9b0aeb9e3","type":"text","text":"Poluição da água","x":-940,"y":-250,"width":250,"height":60,"color":"6"},
+		{"id":"f4d49339021b46a9","type":"text","text":"Emissão de Compostos Orgânicos Voláteis (COVs)","x":-940,"y":0,"width":250,"height":60,"color":"3"},
+		{"id":"1e06003e9a7d8cd0","type":"text","text":"Agrotóxicos","x":280,"y":-190,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"98b164777ab70c7e","fromNode":"2d0ae4d9f7275203","fromSide":"top","toNode":"54fecde21d5d46ba","toSide":"bottom","color":"2"},
+		{"id":"2ca09170a92f76cd","fromNode":"70c46d2a75f9393f","fromSide":"top","toNode":"9605240a55ae6d31","toSide":"bottom","color":"3"},
+		{"id":"cdd6f33dcc3c2bbd","fromNode":"70c46d2a75f9393f","fromSide":"left","toNode":"d29674f9b0aeb9e3","toSide":"right","color":"3"},
+		{"id":"ee19ff92e74e9ffb","fromNode":"2d0ae4d9f7275203","fromSide":"left","toNode":"17de71a4f786f8bc","toSide":"right","color":"2"},
+		{"id":"f01d3e1cf93d2ee4","fromNode":"17de71a4f786f8bc","fromSide":"top","toNode":"70c46d2a75f9393f","toSide":"bottom","color":"1"},
+		{"id":"8ee6bde465802bf0","fromNode":"17de71a4f786f8bc","fromSide":"left","toNode":"f4d49339021b46a9","toSide":"right","color":"1"},
+		{"id":"3d2a81f9d642c222","fromNode":"54fecde21d5d46ba","fromSide":"top","toNode":"6ccf33b75f13f7c4","toSide":"bottom","color":"1"},
+		{"id":"6173068bfa13746f","fromNode":"54fecde21d5d46ba","fromSide":"right","toNode":"1e06003e9a7d8cd0","toSide":"left","color":"1"},
+		{"id":"38752623a44d4805","fromNode":"2d0ae4d9f7275203","fromSide":"right","toNode":"42ec6a14b948fdd8","toSide":"left","color":"2"},
+		{"id":"f5a550a7b2ced7f9","fromNode":"42ec6a14b948fdd8","fromSide":"top","toNode":"2b2cbc019c79a6c5","toSide":"bottom","color":"1"}
+	]
+}
