@@ -1,14 +1,14 @@
 {
 	"nodes":[
 		{"id":"2f2cd3b21869441a","type":"text","text":"Sumário","x":-180,"y":-290,"width":250,"height":60},
-		{"id":"8e9cb23bb4c19727","type":"text","text":"<span style=\"display: block; text-align: center; font-size: 30px;\">[[O que é]]</span>","x":-205,"y":-410,"width":300,"height":90},
-		{"id":"bb665fd3a22f2fe6","type":"text","text":"<h2 align=\"center\">Como fazer</h2>","x":-205,"y":-540,"width":300,"height":90},
+		{"id":"8e9cb23bb4c19727","type":"text","text":"<span style=\"display: block; text-align: center; font-size: 30px;\">[[O que é]]</span>","x":-205,"y":-410,"width":300,"height":90,"color":"4"},
+		{"id":"bb665fd3a22f2fe6","type":"text","text":"<h2 align=\"center\">Como fazer</h2>","x":-205,"y":-540,"width":300,"height":90,"color":"3"},
 		{"id":"e5577c86790545e5","type":"text","text":"Quais regras e cuidados tomar","x":-180,"y":-640,"width":250,"height":60},
-		{"id":"0b8b0baf17e58782","type":"text","text":"Características","x":-500,"y":-395,"width":250,"height":60},
+		{"id":"0b8b0baf17e58782","type":"text","text":"[[Características]]","x":-500,"y":-395,"width":250,"height":60,"color":"3"},
 		{"id":"21a503e5beb889c0","type":"text","text":"Quando fazer ","x":-500,"y":-525,"width":250,"height":60},
 		{"id":"847115b46da1c56a","type":"text","text":"Vídeo demonstrativo\nhttps://www.youtube.com/watch?v=A3qJmLO8QFE","x":280,"y":-350,"width":250,"height":120},
 		{"id":"32f7b619f0d72f79","type":"text","text":"Por que fazer","x":220,"y":-640,"width":250,"height":60},
-		{"id":"983fa23c9d9f40b8","type":"text","text":"# **Arremesso com giro** e queda\n![[arremesso-img.png]]","x":-342,"y":-160,"width":575,"height":495,"color":"3"},
+		{"id":"983fa23c9d9f40b8","type":"text","text":"# **Arremesso com giro** e queda no handebol\n![[arremesso-img.png]]","x":-342,"y":-160,"width":575,"height":495,"color":"3"},
 		{"id":"511e6593e75c2a4f","type":"text","text":"Principais Erros","x":-500,"y":-640,"width":250,"height":60},
 		{"id":"7962e6d67cdeafb1","type":"text","text":"Diferencial","x":-179,"y":-740,"width":250,"height":60,"color":"1"},
 		{"id":"c5b2e38e2f79a48e","type":"text","text":"Conclusão","x":-180,"y":-840,"width":250,"height":60}
