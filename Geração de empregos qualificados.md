@@ -1,0 +1,1 @@
+**Defesa do Grupo 3 (Rebatendo acusação de "geração de subempregos e exploração do trabalhador")**: A indústria opera dentro de rígidos padrões de _Compliance_ trabalhista e normas regulamentadoras (NRs), garantindo remuneração justa, capacitação contínua e proteção à saúde ocupacional dos colaboradores.

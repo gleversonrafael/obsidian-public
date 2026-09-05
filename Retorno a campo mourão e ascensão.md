@@ -1,0 +1,2 @@
+Hiratinha retorna a Campo Mourão, começa a vencer vários torneios, ascende na vida profissional e, na final do maior torneio internacional de handebol, encontra seu rival: Heronzinho.
+Após muito sofrimento, Hiratinha vence no final do jogo, ao executar um arremesso com giro e queda, acertando na gaveta do gol.

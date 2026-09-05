@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"a833ffc2f535ceb0","type":"text","text":"[[Automação Industrial, Geração de Empregos e Qualidade de vida da população]]","x":-880,"y":-58,"width":250,"height":58},
+		{"id":"abaeb8f8b562ef76","type":"text","text":"<h1 style=\"font-size: 50px; text-align: center;\"> Tecnologia <h1>","x":-580,"y":-89,"width":485,"height":120},
+		{"id":"5307c435c24d3ebe","type":"text","text":"<h1 style=\"font-size: 50px; text-align: center;\"> Direitos Humanos <h1>","x":-40,"y":-89,"width":485,"height":120},
+		{"id":"be872c7c385e03e1","type":"text","text":"[[Geração de subempregos]]","x":56,"y":-200,"width":294,"height":50},
+		{"id":"00c8c473f7ec27bb","type":"text","text":"","x":-484,"y":80,"width":294,"height":50}
+	],
+	"edges":[]
+}

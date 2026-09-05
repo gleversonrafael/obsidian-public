@@ -1,0 +1,1 @@
+Mansokito entrega o troféu do jogo ao Hiratinha, que surpreendemente, faz as pazes com Heronzinho e, ao apertar sua mão, tudo desaparece e, repentinamente, Hiratinha acorda, 5 décadas mais jovem, preparado para sua final. 

@@ -1,27 +1,47 @@
 {
   "main": {
-    "id": "c4be935c96a9100d",
+    "id": "368062aececb5a83",
     "type": "split",
     "children": [
       {
-        "id": "04a44ca1bd4a142b",
+        "id": "6391d2c33d9a3582",
         "type": "tabs",
         "children": [
           {
-            "id": "53524fcc7b1c51b2",
+            "id": "8fda858aea9e5b5a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "proj002-geography-public-hearing/canvas/Mapa problemas ambientais.canvas",
+                "file": "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
                 "viewState": {
-                  "x": -165,
-                  "y": -60,
-                  "zoom": -0.5163875034493736
+                  "x": -287.1576439673588,
+                  "y": 399.1637493596347,
+                  "zoom": -2.1589901668613383
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Mapa problemas ambientais"
+              "title": "roteiro-v1.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9d65ff50b0666289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b193994cce2e3039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conclusão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conclusão"
             }
           }
         ]
@@ -30,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a3d0260a52431b04",
+    "id": "8fe1a095c56de916",
     "type": "split",
     "children": [
       {
-        "id": "15da66e6ce50acf4",
+        "id": "e17dd75336e0cc36",
         "type": "tabs",
         "children": [
           {
-            "id": "28c24c0950820e16",
+            "id": "0452495f898f6cce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,11 +69,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
-            "id": "dd930db7f98d1c1d",
+            "id": "b6a6fe5ade60e070",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,11 +86,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
-            "id": "043904985da09080",
+            "id": "982ab3f22b43e58d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,7 +99,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -89,20 +109,20 @@
     "width": 300
   },
   "right": {
-    "id": "315cf536cf08fd95",
+    "id": "e46a66b745778454",
     "type": "split",
     "children": [
       {
-        "id": "67e806c846b32712",
+        "id": "1a33135e30aa0794",
         "type": "tabs",
         "children": [
           {
-            "id": "cf37526128b9b743",
+            "id": "3fc3751254d55586",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proj002-geography-public-hearing/canvas/Mapa problemas ambientais.canvas",
+                "file": "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +132,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "6e6ef592c04d6799",
+            "id": "24e7cf3e8e68ebe8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proj002-geography-public-hearing/canvas/Mapa problemas ambientais.canvas",
+                "file": "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f06b58a5e1b76a47",
+            "id": "fac83b62fe0422d3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,11 +161,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "135916590de7d470",
+            "id": "784cf8c5c13449b0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,22 +175,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Todas as propriedades"
+              "title": "All properties"
             }
           },
           {
-            "id": "8998c37e0c670e51",
+            "id": "c56fdd02e61c8810",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "proj002-geography-public-hearing/canvas/Mapa problemas ambientais.canvas",
+                "file": "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Outline"
             }
           }
         ]
@@ -182,35 +202,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "28c24c0950820e16",
+  "active": "8fda858aea9e5b5a",
   "lastOpenFiles": [
-    "proj002-geography-public-hearing/notes/Desmatamento.md",
-    "proj002-geography-public-hearing/notes/Água.md",
-    "Água.md",
-    "proj002-geography-public-hearing/canvas/Mapa problemas ambientais.canvas",
-    "Alto Consumo de água.md",
-    "Desmatamento.md",
-    "proj002-geography-public-hearing/canvas/mapa.canvas",
-    "proj002-geography-public-hearing/notes/Que exigências faríamos.md",
-    "proj002-geography-public-hearing/notes/A favor.md",
-    "A favor.md",
-    "Que exigências faríamos.md",
-    "proj002-geography-public-hearing/notes/O que perdemos.md",
-    "proj002-geography-public-hearing/notes/O que ganhamos.md",
+    "Conclusão.md",
     "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
+    "Retorno a campo mourão e ascensão.md",
+    "Aprendizado.md",
+    "proj001-physical-education-dive-shot/notes/Quais são as regras.md",
+    "Torneio.md",
+    "Conflito.md",
+    "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
+    "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
+    "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
+    "proj002-geography-public-hearing/canvas/Mapa.canvas",
+    "proj002-geography-public-hearing/notes/Automação Industrial, Geração de Empregos e Qualidade de vida da população.md",
+    "Geração de empregos qualificados.md",
+    "proj002-geography-public-hearing/notes/A favor.md",
+    "proj002-geography-public-hearing/notes/Que exigências faríamos.md",
+    "proj002-geography-public-hearing/notes/Concentração de poder econômico.md",
+    "proj001-physical-education-dive-shot/references/arremesso-img.png",
     "proj001-physical-education-dive-shot/notes/Quando fazer.md",
-    "Quando fazer.md",
     "proj001-physical-education-dive-shot/notes/Como fazer.md",
-    "proj001-physical-education-dive-shot/notes/O que é.md",
-    "proj001-physical-education-dive-shot/notes/Características.md"
+    "proj001-physical-education-dive-shot/notes/Principais erros.md",
+    "proj001-physical-education-dive-shot/notes/Por que fazer.md"
   ]
 }
