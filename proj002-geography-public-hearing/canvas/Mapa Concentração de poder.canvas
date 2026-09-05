@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"d83efaeff91653cc","type":"text","text":"**Produção em massa**","x":575,"y":127,"width":250,"height":60,"color":"#2797dd"},
+		{"id":"fb22ce0b9ad54596","type":"text","text":"    \n**Exportações**","x":540,"y":360,"width":214,"height":50,"color":"#2630b5"},
+		{"id":"e9320bebc35537f3","type":"text","text":"    \n**Agricultores familiares**","x":-284,"y":440,"width":214,"height":50,"color":"#b50822"},
+		{"id":"5a7ec5daaeccc1ee","type":"text","text":"**Desigualdade**","x":-400,"y":137,"width":250,"height":50,"color":"#ff0000"},
+		{"id":"4fb696c3804db669","type":"text","text":"**Menor competitividade**","x":-480,"y":697,"width":250,"height":58,"color":"#e45858"},
+		{"id":"d77bcaefbf0f1cb6","type":"text","text":"**Fiscalização e políticas**","x":-150,"y":930,"width":250,"height":50,"color":"#da5d89"},
+		{"id":"6d1f48b36455f485","type":"text","text":"**Grandes empresários**","x":85,"y":187,"width":250,"height":50,"color":"#068426"},
+		{"id":"3660c4b6c424f78b","type":"text","text":"\n**Poder comercial **","x":85,"y":410,"width":214,"height":55,"color":"#2bf353"},
+		{"id":"524fc2a554c59f91","type":"text","text":"**Economia nacional**","x":680,"y":639,"width":250,"height":58,"color":"#070eca"},
+		{"id":"a520fcb8076e678a","type":"text","text":"**Mais exportações**","x":255,"y":905,"width":250,"height":50,"color":"#78cea6"},
+		{"id":"d43beb9b95bf5f34","type":"text","text":"**Alta produção**","x":130,"y":639,"width":250,"height":58,"color":"#7ce49b"},
+		{"id":"ab7b5303a308e085","type":"text","text":"**[[Concentração de poder econômico]]**","x":40,"y":20,"width":340,"height":50,"color":"1"}
+	],
+	"edges":[
+		{"id":"c7526eb8299304ce","fromNode":"ab7b5303a308e085","fromSide":"right","toNode":"d83efaeff91653cc","toSide":"left","color":"5"},
+		{"id":"6fb7204241e2eb6c","fromNode":"d83efaeff91653cc","fromSide":"bottom","toNode":"fb22ce0b9ad54596","toSide":"top","color":"#246bc6"},
+		{"id":"f02d90dc31fc402e","fromNode":"fb22ce0b9ad54596","fromSide":"bottom","toNode":"524fc2a554c59f91","toSide":"top","color":"#3620d9"},
+		{"id":"2a48e5d7dde15afe","fromNode":"5a7ec5daaeccc1ee","fromSide":"bottom","toNode":"e9320bebc35537f3","toSide":"top","color":"#860909"},
+		{"id":"b6d315410162a301","fromNode":"e9320bebc35537f3","fromSide":"bottom","toNode":"4fb696c3804db669","toSide":"top","color":"#c11515"},
+		{"id":"e0d6ac5e49200998","fromNode":"ab7b5303a308e085","fromSide":"left","toNode":"5a7ec5daaeccc1ee","toSide":"right","color":"#500707"},
+		{"id":"d17cdd855ea357ae","fromNode":"4fb696c3804db669","fromSide":"right","toNode":"d77bcaefbf0f1cb6","toSide":"left","color":"#dd7878"},
+		{"id":"7836638eb952b230","fromNode":"d43beb9b95bf5f34","fromSide":"bottom","toNode":"a520fcb8076e678a","toSide":"top","color":"#7ceea4"},
+		{"id":"0b6df31faca4674e","fromNode":"6d1f48b36455f485","fromSide":"bottom","toNode":"3660c4b6c424f78b","toSide":"top","color":"#0c9723"},
+		{"id":"48a051fe853d3464","fromNode":"ab7b5303a308e085","fromSide":"bottom","toNode":"6d1f48b36455f485","toSide":"top","color":"#09441a"},
+		{"id":"183ffabebc8a18da","fromNode":"3660c4b6c424f78b","fromSide":"bottom","toNode":"d43beb9b95bf5f34","toSide":"top","color":"4"}
+	]
+}

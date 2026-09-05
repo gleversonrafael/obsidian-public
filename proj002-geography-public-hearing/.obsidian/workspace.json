@@ -14,15 +14,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/mapa.canvas",
+                "file": "canvas/Mapa Concentração de poder.canvas",
                 "viewState": {
-                  "x": 286.2985195575653,
-                  "y": -59.08352639412634,
-                  "zoom": -1.6666666666666665
+                  "x": 225,
+                  "y": 500,
+                  "zoom": -0.6935959660179603
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "mapa"
+              "title": "Mapa Concentração de poder"
             }
           }
         ]
@@ -66,12 +66,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -204,20 +204,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
   "active": "9d18df1df3826a45",
   "lastOpenFiles": [
-    "notes/O que ganhamos.md",
+    "canvas/Mapa problemas ambientais.canvas",
+    "notes/Concentração de poder econômico.md",
+    "canvas/Mapa Concentração de poder.canvas",
+    "notes/A favor.md",
+    "notes/Água.md",
+    "notes/Desmatamento.md",
     "canvas/mapa.canvas",
+    "notes/Que exigências faríamos.md",
     "notes/O que perdemos.md",
+    "notes/O que ganhamos.md",
     "references/public-hearing.png",
     "Pasted image 20260904193130.png",
     "Início-Geografia.md",
