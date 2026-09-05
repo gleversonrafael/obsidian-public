@@ -1,7 +1,3 @@
-Quando poucos grandes empresários possuem muitos recursos e propriedades, eles acabam tendo mais influência sobre o agronegócio e o mercado.  
-Isso faz com que suas decisões tenham um impacto maior na economia e na produção.7
-
-
 **Pontos positivos:**
 
 **Capacidade de atração de capital externo** Empresas agrícolas de grande porte têm acesso facilitado ao mercado de capitais e ao crédito internacional, atraindo investimentos estrangeiros para o país. Essa entrada de recursos financia a infraestrutura privada, gera divisas para o Brasil e fortalece a moeda nacional frente ao dólar.

@@ -12,17 +12,14 @@
             "id": "9d18df1df3826a45",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas/Mapa Concentração de poder.canvas",
-                "viewState": {
-                  "x": 225,
-                  "y": 500,
-                  "zoom": -0.6935959660179603
-                }
+                "file": "notes/Concentração de poder econômico.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa Concentração de poder"
+              "icon": "lucide-file",
+              "title": "Concentração de poder econômico"
             }
           }
         ]
@@ -215,9 +212,9 @@
   },
   "active": "9d18df1df3826a45",
   "lastOpenFiles": [
+    "canvas/Mapa Concentração de poder.canvas",
     "canvas/Mapa problemas ambientais.canvas",
     "notes/Concentração de poder econômico.md",
-    "canvas/Mapa Concentração de poder.canvas",
     "notes/A favor.md",
     "notes/Água.md",
     "notes/Desmatamento.md",
