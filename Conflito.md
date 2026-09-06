@@ -1,1 +1,0 @@
-Hiratinha é atacante mas não consegue fazer gol

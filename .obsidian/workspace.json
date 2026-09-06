@@ -4,44 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6391d2c33d9a3582",
+        "id": "949a9546431cd3a4",
         "type": "tabs",
         "children": [
           {
-            "id": "8fda858aea9e5b5a",
+            "id": "bfd14aa1c8ffea73",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
                 "viewState": {
-                  "x": -287.1576439673588,
-                  "y": 399.1637493596347,
-                  "zoom": -2.1589901668613383
+                  "x": -247.55586913048666,
+                  "y": 337.5282700863054,
+                  "zoom": -0.8721994194650358
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "roteiro-v1.0"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9d65ff50b0666289",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b193994cce2e3039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conclusão.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conclusão"
             }
           }
         ]
@@ -106,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e46a66b745778454",
@@ -211,21 +191,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "8fda858aea9e5b5a",
+  "active": "bfd14aa1c8ffea73",
   "lastOpenFiles": [
-    "Conclusão.md",
-    "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
-    "Retorno a campo mourão e ascensão.md",
-    "Aprendizado.md",
-    "proj001-physical-education-dive-shot/notes/Quais são as regras.md",
-    "Torneio.md",
-    "Conflito.md",
-    "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
     "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
-    "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
+    "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
     "proj002-geography-public-hearing/canvas/Mapa.canvas",
+    "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
+    "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
+    "proj003-philosophy-empiricism/canvas/filosofia-mapa.canvas",
+    "Junsui Keiken (Experiência Pura).md",
+    "proj003-philosophy-empiricism/references/etienne.jpg",
+    "proj003-philosophy-empiricism/references/nishida.png",
+    "proj003-philosophy-empiricism/references/condillac.gif",
+    "proj003-philosophy-empiricism/Untitled.md",
+    "proj003-philosophy-empiricism/references",
+    "Pasted image 20260906142732.png",
+    "proj003-philosophy-empiricism/canvas/Untitled.md",
+    "proj003-philosophy-empiricism/notes",
+    "proj003-philosophy-empiricism/canvas",
+    "proj001-physical-education-dive-shot/notes/Aprendizado.md",
+    "proj002-geography-public-hearing/notes/Geração de empregos qualificados.md",
+    "proj001-physical-education-dive-shot/notes/Conclusão.md",
+    "proj001-physical-education-dive-shot/notes/Retorno a campo mourão e ascensão.md",
+    "proj001-physical-education-dive-shot/notes/Torneio.md",
+    "proj001-physical-education-dive-shot/notes/Conflito.md",
+    "proj001-physical-education-dive-shot/notes/Características.md",
+    "proj001-physical-education-dive-shot/notes/O que é.md",
+    "proj001-physical-education-dive-shot/notes/Quais são as regras.md",
     "proj002-geography-public-hearing/notes/Automação Industrial, Geração de Empregos e Qualidade de vida da população.md",
-    "Geração de empregos qualificados.md",
     "proj002-geography-public-hearing/notes/A favor.md",
     "proj002-geography-public-hearing/notes/Que exigências faríamos.md",
     "proj002-geography-public-hearing/notes/Concentração de poder econômico.md",

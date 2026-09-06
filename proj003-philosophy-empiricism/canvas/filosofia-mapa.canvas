@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"7ee2665110118128","type":"text","text":"<h1 style=\"color: #E2711D\"> Empirismo </h1>","x":-104,"y":160,"width":290,"height":80,"color":"2"},
+		{"id":"8e393fef26fa07be","type":"text","text":"Nishida Kitaro\n![[nishida.png]]","x":-546,"y":-400,"width":293,"height":340,"color":"#4b789b"},
+		{"id":"4e1acd865572967c","type":"text","text":"Iniciativa: Experiência vem antes da razão","x":-149,"y":20,"width":293,"height":90,"color":"#4b789b"},
+		{"id":"d58f2ec5e85d1724","type":"text","text":"Defesa: Experiência é a fonte do conhecimento verdadeiro","x":-80,"y":320,"width":293,"height":80,"color":"#be5050"},
+		{"id":"52faabcbe0a32325","type":"text","text":" Étienne Bonnot de Condillac\n![[etienne.jpg]]","x":540,"y":320,"width":293,"height":375,"color":"#be5050"},
+		{"id":"db73c0e68cd321f7","type":"text","text":"\"Experiência\"","x":160,"y":-180,"width":326,"height":50,"color":"#4b789b"},
+		{"id":"5a51d83070794b6e","type":"text","text":"Por exemplo, Descartes afirma que Penso, Logo Existo, entretanto antes desse estado, já existe uma experiência, portanto o ser e sua existência surgem a partir dela","x":-60,"y":-848,"width":250,"height":228,"color":"#4b789b"},
+		{"id":"2f2cac990331e864","type":"text","text":"A verdadeira experiência. \nOcorre antes da divisão entre sujeito e objeto, isto é, antes do reconhecimento da existência do sujeito e do objeto pelo sujeito. ","x":280,"y":-800,"width":250,"height":200,"color":"#4b789b"},
+		{"id":"529d6d58d42b6304","type":"text","text":"Estado transitório originário em que não há um \"vidro\" entre o ser humano e a realidade, isto é, sua razão e conhecimento não interferem na forma como ele é visto. ","x":640,"y":-760,"width":250,"height":220,"color":"#4b789b"},
+		{"id":"b248219e931fd6cc","type":"text","text":"Por exemplo, um ser está vendo uma árvore e interpretando justamente sua experiência, sua realidade, sem classificar biologicamente ou utilizar a razão humana","x":640,"y":-471,"width":250,"height":233,"color":"#4b789b"},
+		{"id":"8f6f6cf74ddaf321","type":"text","text":"Experiência ","x":160,"y":-290,"width":326,"height":60,"color":"#4b789b"},
+		{"id":"a14b00176e1e36f5","type":"text","text":"Como é o conhecimento antes da divisão entre sujeito e objeto?","x":-208,"y":-346,"width":250,"height":108,"color":"#4b789b"},
+		{"id":"69e89dfb9280b6f9","type":"text","text":"Experiência Pura","x":160,"y":-379,"width":326,"height":50,"color":"#4b789b"},
+		{"id":"52c25a1e1e5db785","type":"text","text":"A experiência não pertence a um ser, é o ser que pertence á experiência","x":-546,"y":-640,"width":250,"height":120,"color":"#4b789b"},
+		{"id":"af0ea80f3879c76e","type":"text","text":"Nós pensamos e dividimos a realidade conforme nossa REFLEXÃO, embora a verdadeira realidade exista ao mesmo tempo","x":-940,"y":-500,"width":250,"height":226,"color":"#4b789b"}
+	],
+	"edges":[
+		{"id":"be2b9e95cb8086f8","fromNode":"7ee2665110118128","fromSide":"top","toNode":"4e1acd865572967c","toSide":"bottom"},
+		{"id":"d02a3edef9521c72","fromNode":"4e1acd865572967c","fromSide":"top","toNode":"8e393fef26fa07be","toSide":"bottom"},
+		{"id":"95cf11b671696a1f","fromNode":"7ee2665110118128","fromSide":"bottom","toNode":"d58f2ec5e85d1724","toSide":"top"},
+		{"id":"65bf206b9c18ec36","fromNode":"d58f2ec5e85d1724","fromSide":"bottom","toNode":"52faabcbe0a32325","toSide":"top"},
+		{"id":"3331c4ea325b185c","fromNode":"8f6f6cf74ddaf321","fromSide":"top","toNode":"69e89dfb9280b6f9","toSide":"bottom"},
+		{"id":"ea7bbe9f984ea7bd","fromNode":"8f6f6cf74ddaf321","fromSide":"bottom","toNode":"db73c0e68cd321f7","toSide":"left"},
+		{"id":"a96c5bae38f56068","fromNode":"5a51d83070794b6e","fromSide":"right","toNode":"2f2cac990331e864","toSide":"left"},
+		{"id":"a5fc17231022553d","fromNode":"69e89dfb9280b6f9","fromSide":"top","toNode":"2f2cac990331e864","toSide":"bottom"},
+		{"id":"cc6924b43c23d7db","fromNode":"69e89dfb9280b6f9","fromSide":"right","toNode":"529d6d58d42b6304","toSide":"left"},
+		{"id":"718605c94d6edc63","fromNode":"529d6d58d42b6304","fromSide":"bottom","toNode":"b248219e931fd6cc","toSide":"top"},
+		{"id":"4f3d58539bd9f994","fromNode":"2f2cac990331e864","fromSide":"right","toNode":"529d6d58d42b6304","toSide":"left"},
+		{"id":"5f881ba717279ae5","fromNode":"8e393fef26fa07be","fromSide":"right","toNode":"a14b00176e1e36f5","toSide":"left"},
+		{"id":"ac1fce84b4639118","fromNode":"a14b00176e1e36f5","fromSide":"right","toNode":"8f6f6cf74ddaf321","toSide":"left"},
+		{"id":"9dad729e43d9ac26","fromNode":"af0ea80f3879c76e","fromSide":"right","toNode":"8e393fef26fa07be","toSide":"left"},
+		{"id":"33c9a18c3f2be2c2","fromNode":"52c25a1e1e5db785","fromSide":"bottom","toNode":"8e393fef26fa07be","toSide":"top"},
+		{"id":"aebed366644542bb","fromNode":"af0ea80f3879c76e","fromSide":"top","toNode":"52c25a1e1e5db785","toSide":"left"}
+	]
+}
