@@ -14,7 +14,13 @@
 		{"id":"a14b00176e1e36f5","type":"text","text":"Como é o conhecimento antes da divisão entre sujeito e objeto?","x":-208,"y":-346,"width":250,"height":108,"color":"#4b789b"},
 		{"id":"69e89dfb9280b6f9","type":"text","text":"Experiência Pura","x":160,"y":-379,"width":326,"height":50,"color":"#4b789b"},
 		{"id":"52c25a1e1e5db785","type":"text","text":"A experiência não pertence a um ser, é o ser que pertence á experiência","x":-546,"y":-640,"width":250,"height":120,"color":"#4b789b"},
-		{"id":"af0ea80f3879c76e","type":"text","text":"Nós pensamos e dividimos a realidade conforme nossa REFLEXÃO, embora a verdadeira realidade exista ao mesmo tempo","x":-940,"y":-500,"width":250,"height":226,"color":"#4b789b"}
+		{"id":"af0ea80f3879c76e","type":"text","text":"Nós pensamos e dividimos a realidade conforme nossa REFLEXÃO, embora a verdadeira realidade exista ao mesmo tempo","x":-940,"y":-500,"width":250,"height":171,"color":"#4b789b"},
+		{"id":"3edb6ec25c0c5de1","type":"text","text":"Iniciativa (Gleverson)","x":-859,"y":-860,"width":250,"height":60},
+		{"id":"b356da4f7aa0264b","type":"text","text":"Pergunta (Gabriel Soares)","x":-520,"y":-860,"width":250,"height":60},
+		{"id":"d0e2edf4640f3379","type":"text","text":"40% TEORIA\n60% PERGUNTA E RESPOSTA","x":280,"y":-2,"width":457,"height":135},
+		{"id":"3b7edc0341d7f553","type":"text","text":"POR QUE A EXPERIÊNCIA FALHA MUITAS VEZES NO CONHECIMENTO?","x":-440,"y":288,"width":250,"height":112},
+		{"id":"b2290c6bebef2549","type":"text","text":"EXPERIêNCIA É VERDADEIRA SEMPRE\nMAS A INTERPRETAÇÃO HUMANA É QUE É FALHA","x":-767,"y":163,"width":250,"height":157},
+		{"id":"b1d55149ff37cbfd","x":-980,"y":-1040,"width":371,"height":120,"type":"text","text":"Como o racionalismo justificaria o conhecimento verdadeiro na teoria de Kitaro?\n[[iniciativa-filosofia-kitaro]]"}
 	],
 	"edges":[
 		{"id":"be2b9e95cb8086f8","fromNode":"7ee2665110118128","fromSide":"top","toNode":"4e1acd865572967c","toSide":"bottom"},
@@ -32,6 +38,11 @@
 		{"id":"ac1fce84b4639118","fromNode":"a14b00176e1e36f5","fromSide":"right","toNode":"8f6f6cf74ddaf321","toSide":"left"},
 		{"id":"9dad729e43d9ac26","fromNode":"af0ea80f3879c76e","fromSide":"right","toNode":"8e393fef26fa07be","toSide":"left"},
 		{"id":"33c9a18c3f2be2c2","fromNode":"52c25a1e1e5db785","fromSide":"bottom","toNode":"8e393fef26fa07be","toSide":"top"},
-		{"id":"aebed366644542bb","fromNode":"af0ea80f3879c76e","fromSide":"top","toNode":"52c25a1e1e5db785","toSide":"left"}
+		{"id":"aebed366644542bb","fromNode":"af0ea80f3879c76e","fromSide":"top","toNode":"52c25a1e1e5db785","toSide":"left"},
+		{"id":"279d934e0512aa61","fromNode":"52c25a1e1e5db785","fromSide":"top","toNode":"3edb6ec25c0c5de1","toSide":"bottom"},
+		{"id":"1ddbd01d22dfc218","fromNode":"52c25a1e1e5db785","fromSide":"top","toNode":"b356da4f7aa0264b","toSide":"bottom"},
+		{"id":"a51bd9d92284285f","fromNode":"d58f2ec5e85d1724","fromSide":"left","toNode":"3b7edc0341d7f553","toSide":"right"},
+		{"id":"5d15f1716be4e97a","fromNode":"3b7edc0341d7f553","fromSide":"left","toNode":"b2290c6bebef2549","toSide":"right"},
+		{"id":"aaf68ef85b5aced5","fromNode":"3edb6ec25c0c5de1","fromSide":"top","toNode":"b1d55149ff37cbfd","toSide":"bottom"}
 	]
 }

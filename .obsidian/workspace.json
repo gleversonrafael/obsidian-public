@@ -13,15 +13,49 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
+                "file": "proj003-philosophy-empiricism/canvas/filosofia-mapa.canvas",
                 "viewState": {
-                  "x": -247.55586913048666,
-                  "y": 337.5282700863054,
-                  "zoom": -0.8721994194650358
+                  "x": -791.4623109774278,
+                  "y": -969.6941879639016,
+                  "zoom": -1.8423569327623885
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "roteiro-v1.0"
+              "title": "filosofia-mapa"
+            }
+          },
+          {
+            "id": "991efd17dec9262c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proj003-philosophy-empiricism/canvas/iniciativa-filosofia-kitaro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "iniciativa-filosofia-kitaro"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fadcba2ad055cf4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540dac84ad3a3c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proj003-philosophy-empiricism/canvas/iniciativa-filosofia-kitaro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "iniciativa-filosofia-kitaro"
             }
           }
         ]
@@ -193,12 +227,20 @@
   },
   "active": "bfd14aa1c8ffea73",
   "lastOpenFiles": [
-    "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
-    "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
-    "proj002-geography-public-hearing/canvas/Mapa.canvas",
-    "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
-    "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
+    "proj003-philosophy-empiricism/canvas/iniciativa-filosofia-kitaro.md",
     "proj003-philosophy-empiricism/canvas/filosofia-mapa.canvas",
+    "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
+    "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
+    "proj002-geography-public-hearing/canvas/Mapa.canvas",
+    "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
+    "Pasted image 20260907145345.png",
+    "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
+    "proj001-physical-education-dive-shot/notes/Principais erros.md",
+    "proj001-physical-education-dive-shot/notes/Quando fazer.md",
+    "proj001-physical-education-dive-shot/notes/Por que fazer.md",
+    "proj001-physical-education-dive-shot/notes/Características.md",
+    "proj001-physical-education-dive-shot/notes/O que é.md",
+    "proj001-physical-education-dive-shot/notes/Como fazer.md",
     "Junsui Keiken (Experiência Pura).md",
     "proj003-philosophy-empiricism/references/etienne.jpg",
     "proj003-philosophy-empiricism/references/nishida.png",
@@ -215,17 +257,11 @@
     "proj001-physical-education-dive-shot/notes/Retorno a campo mourão e ascensão.md",
     "proj001-physical-education-dive-shot/notes/Torneio.md",
     "proj001-physical-education-dive-shot/notes/Conflito.md",
-    "proj001-physical-education-dive-shot/notes/Características.md",
-    "proj001-physical-education-dive-shot/notes/O que é.md",
     "proj001-physical-education-dive-shot/notes/Quais são as regras.md",
     "proj002-geography-public-hearing/notes/Automação Industrial, Geração de Empregos e Qualidade de vida da população.md",
     "proj002-geography-public-hearing/notes/A favor.md",
     "proj002-geography-public-hearing/notes/Que exigências faríamos.md",
     "proj002-geography-public-hearing/notes/Concentração de poder econômico.md",
-    "proj001-physical-education-dive-shot/references/arremesso-img.png",
-    "proj001-physical-education-dive-shot/notes/Quando fazer.md",
-    "proj001-physical-education-dive-shot/notes/Como fazer.md",
-    "proj001-physical-education-dive-shot/notes/Principais erros.md",
-    "proj001-physical-education-dive-shot/notes/Por que fazer.md"
+    "proj001-physical-education-dive-shot/references/arremesso-img.png"
   ]
 }
