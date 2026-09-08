@@ -20,7 +20,8 @@
 		{"id":"d0e2edf4640f3379","type":"text","text":"40% TEORIA\n60% PERGUNTA E RESPOSTA","x":280,"y":-2,"width":457,"height":135},
 		{"id":"3b7edc0341d7f553","type":"text","text":"POR QUE A EXPERIÊNCIA FALHA MUITAS VEZES NO CONHECIMENTO?","x":-440,"y":288,"width":250,"height":112},
 		{"id":"b2290c6bebef2549","type":"text","text":"EXPERIêNCIA É VERDADEIRA SEMPRE\nMAS A INTERPRETAÇÃO HUMANA É QUE É FALHA","x":-767,"y":163,"width":250,"height":157},
-		{"id":"b1d55149ff37cbfd","x":-980,"y":-1040,"width":371,"height":120,"type":"text","text":"Como o racionalismo justificaria o conhecimento verdadeiro na teoria de Kitaro?\n[[iniciativa-filosofia-kitaro]]"}
+		{"id":"b1d55149ff37cbfd","type":"text","text":"Como o racionalismo justificaria o conhecimento verdadeiro na teoria de Kitaro?\n[[iniciativa-filosofia-kitaro]]","x":-980,"y":-1040,"width":371,"height":120},
+		{"id":"09ab88278094f936","type":"text","text":"[[resposta-iniciativa]]","x":-919,"y":-1160,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"be2b9e95cb8086f8","fromNode":"7ee2665110118128","fromSide":"top","toNode":"4e1acd865572967c","toSide":"bottom"},
@@ -43,6 +44,7 @@
 		{"id":"1ddbd01d22dfc218","fromNode":"52c25a1e1e5db785","fromSide":"top","toNode":"b356da4f7aa0264b","toSide":"bottom"},
 		{"id":"a51bd9d92284285f","fromNode":"d58f2ec5e85d1724","fromSide":"left","toNode":"3b7edc0341d7f553","toSide":"right"},
 		{"id":"5d15f1716be4e97a","fromNode":"3b7edc0341d7f553","fromSide":"left","toNode":"b2290c6bebef2549","toSide":"right"},
-		{"id":"aaf68ef85b5aced5","fromNode":"3edb6ec25c0c5de1","fromSide":"top","toNode":"b1d55149ff37cbfd","toSide":"bottom"}
+		{"id":"aaf68ef85b5aced5","fromNode":"3edb6ec25c0c5de1","fromSide":"top","toNode":"b1d55149ff37cbfd","toSide":"bottom"},
+		{"id":"fea00cd0aa1491af","fromNode":"b1d55149ff37cbfd","fromSide":"top","toNode":"09ab88278094f936","toSide":"bottom"}
 	]
 }
