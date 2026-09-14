@@ -9,8 +9,7 @@
 		{"id":"c8899dc2cd2f4e90","type":"text","text":"## Somos contra ou a favor?","x":-235,"y":-135,"width":250,"height":105,"color":"#386fa4"},
 		{"id":"9b7404deaa592e86","type":"text","text":"[[Que exigências faríamos]]","x":-190,"y":140,"width":300,"height":60,"color":"#386fa4"},
 		{"id":"3131d252e7c30bba","type":"text","text":"[[Problemas Ambientais.canvas]]","x":-620,"y":-600,"width":250,"height":60,"color":"6"},
-		{"id":"293a0edba72a2087","type":"text","text":"Tecnologia e direitos humanos","x":-260,"y":-760,"width":300,"height":60,"color":"3"},
-		{"id":"c5673455e4c86342","type":"text","text":"[[Monopólio e concentração de poder.canvas]]","x":180,"y":-610,"width":360,"height":70,"color":"5"}
+		{"id":"293a0edba72a2087","type":"text","text":"Tecnologia e direitos humanos","x":-260,"y":-760,"width":300,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"d927da8edeac0ea5","fromNode":"d98ec4c808ff2ed9","fromSide":"bottom","toNode":"9b7404deaa592e86","toSide":"top","color":"#386fa4"},
@@ -23,8 +22,6 @@
 		{"id":"1196656afaa5fa8f","fromNode":"27645197f2d7e560","fromSide":"top","toNode":"3131d252e7c30bba","toSide":"bottom","color":"6"},
 		{"id":"494b3f6675fdff7f","fromNode":"3131d252e7c30bba","fromSide":"right","toNode":"a89108291cfe9a6a","toSide":"top","color":"6"},
 		{"id":"7c5c655e1a78004d","fromNode":"293a0edba72a2087","fromSide":"left","toNode":"27645197f2d7e560","toSide":"top","color":"3"},
-		{"id":"3d1a630ebf943f43","fromNode":"293a0edba72a2087","fromSide":"right","toNode":"a89108291cfe9a6a","toSide":"top","color":"3"},
-		{"id":"dfe4acf86cbd325d","fromNode":"c5673455e4c86342","fromSide":"bottom","toNode":"a89108291cfe9a6a","toSide":"right","color":"5"},
-		{"id":"641bae9c9eeb8959","fromNode":"27645197f2d7e560","fromSide":"top","toNode":"c5673455e4c86342","toSide":"left","color":"5"}
+		{"id":"3d1a630ebf943f43","fromNode":"293a0edba72a2087","fromSide":"right","toNode":"a89108291cfe9a6a","toSide":"top","color":"3"}
 	]
 }
