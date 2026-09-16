@@ -8,17 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfd14aa1c8ffea73",
+            "id": "11ac6b6f560719aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "proj002-geography-public-hearing/notes/A favor.md",
-                "mode": "source",
-                "source": false
+                "file": "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
+                "viewState": {
+                  "x": -4840.2932654926035,
+                  "y": -1082.4578133792381,
+                  "zoom": -0.7657890986887459
+                }
               },
-              "icon": "lucide-file",
-              "title": "A favor"
+              "icon": "lucide-layout-dashboard",
+              "title": "Tecnologia e Direitos Humanos"
             }
           }
         ]
@@ -188,19 +191,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "bfd14aa1c8ffea73",
+  "active": "11ac6b6f560719aa",
   "lastOpenFiles": [
-    "proj002-geography-public-hearing/canvas/Mapa.canvas",
-    "proj002-geography-public-hearing/notes/O que ganhamos.md",
-    "proj003-philosophy-empiricism/canvas/filosofia-mapa.canvas",
+    "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
     "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
+    "proj002-geography-public-hearing/canvas/mapa.canvas",
+    "proj002-geography-public-hearing/canvas/Mapa.canvas",
+    "proj002-geography-public-hearing/notes/Desmatamento.md",
+    "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
+    "proj002-geography-public-hearing/notes/Concentração de poder econômico.md",
+    "proj002-geography-public-hearing/notes/Que exigências faríamos.md",
+    "proj002-geography-public-hearing/notes/Água.md",
+    "proj002-geography-public-hearing/notes/O que ganhamos.md",
+    "proj002-geography-public-hearing/notes/O que perdemos.md",
+    "proj002-geography-public-hearing/notes/A favor.md",
+    "proj003-philosophy-empiricism/canvas/filosofia-mapa.canvas",
     "Geração de subempregos.md",
     "proj002-geography-public-hearing/notes/Automação Industrial, Geração de Empregos e Qualidade de vida da população.md",
-    "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
-    "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
-    "proj002-geography-public-hearing/notes/Que exigências faríamos.md",
     "proj002-geography-public-hearing/notes/dados-geográficos.png",
-    "proj002-geography-public-hearing/notes/A favor.md",
     "proj002-geography-public-hearing/references/public-hearing.png",
     "proj003-philosophy-empiricism/notes/resposta-iniciativa.md",
     "proj003-philosophy-empiricism/canvas/iniciativa-filosofia-kitaro.md",
@@ -227,9 +235,6 @@
     "proj001-physical-education-dive-shot/notes/Conclusão.md",
     "proj001-physical-education-dive-shot/notes/Retorno a campo mourão e ascensão.md",
     "proj001-physical-education-dive-shot/notes/Torneio.md",
-    "proj001-physical-education-dive-shot/notes/Conflito.md",
-    "proj001-physical-education-dive-shot/notes/Quais são as regras.md",
-    "proj002-geography-public-hearing/notes/Concentração de poder econômico.md",
     "proj001-physical-education-dive-shot/references/arremesso-img.png"
   ]
 }
