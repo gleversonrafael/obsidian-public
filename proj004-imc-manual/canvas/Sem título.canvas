@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"e39a376f732565db","x":-288,"y":23,"width":250,"height":77,"type":"text","text":"<h1> O que fazer </h1>"},
+		{"id":"b4a3987baa6d9705","type":"text","text":"Manual do PC","x":-590,"y":-106,"width":250,"height":60},
+		{"id":"3ab989c3c2ddf8a0","type":"text","text":"Manual técnico","x":-38,"y":-106,"width":250,"height":60},
+		{"id":"7f9142019a49a1e4","x":-288,"y":180,"width":250,"height":60,"type":"text","text":"[[Possível divisão]]"},
+		{"id":"f4ff665a57e55f69","x":36,"y":113,"width":250,"height":60,"type":"text","text":"Etapas"},
+		{"id":"0f7a3ceda14b42e3","x":381,"y":118,"width":250,"height":60,"type":"text","text":"Teórica"},
+		{"id":"cfe9c83e6ebcc254","x":182,"y":269,"width":250,"height":60,"type":"text","text":"Visual"},
+		{"id":"51744e611999504b","x":-352,"y":-293,"width":250,"height":60,"type":"text","text":"[[Checklist]]"}
+	],
+	"edges":[
+		{"id":"26b0da71a6d8d37e","fromNode":"b4a3987baa6d9705","fromSide":"bottom","toNode":"e39a376f732565db","toSide":"top"},
+		{"id":"7a826f73fe9cdf55","fromNode":"3ab989c3c2ddf8a0","fromSide":"bottom","toNode":"e39a376f732565db","toSide":"top"},
+		{"id":"c6fc3c2764a41eb2","fromNode":"e39a376f732565db","fromSide":"bottom","toNode":"7f9142019a49a1e4","toSide":"top"},
+		{"id":"e3ea56e566194e50","fromNode":"e39a376f732565db","fromSide":"right","toNode":"f4ff665a57e55f69","toSide":"top"},
+		{"id":"2192e430541624e3","fromNode":"f4ff665a57e55f69","fromSide":"right","toNode":"0f7a3ceda14b42e3","toSide":"left"},
+		{"id":"18b4e212bc9ce24c","fromNode":"0f7a3ceda14b42e3","fromSide":"bottom","toNode":"cfe9c83e6ebcc254","toSide":"top"}
+	]
+}
