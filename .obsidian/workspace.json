@@ -11,17 +11,14 @@
             "id": "11ac6b6f560719aa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
-                "viewState": {
-                  "x": -4840.2932654926035,
-                  "y": -1082.4578133792381,
-                  "zoom": -0.7657890986887459
-                }
+                "file": "Interfaces Legadas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tecnologia e Direitos Humanos"
+              "icon": "lucide-file",
+              "title": "Interfaces Legadas"
             }
           }
         ]
@@ -49,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -182,19 +179,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
   "active": "11ac6b6f560719aa",
   "lastOpenFiles": [
-    "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
+    "proj004-imc-manual/canvas/Sem título.canvas",
+    "Interfaces Legadas.md",
+    "Comparações Visuais.md",
+    "Checklist.md",
+    "Geração de subempregos.md",
+    "proj004-imc-manual/notes/Possível divisão.md",
     "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
+    "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
     "proj002-geography-public-hearing/canvas/mapa.canvas",
     "proj002-geography-public-hearing/canvas/Mapa.canvas",
     "proj002-geography-public-hearing/notes/Desmatamento.md",
@@ -206,7 +209,6 @@
     "proj002-geography-public-hearing/notes/O que perdemos.md",
     "proj002-geography-public-hearing/notes/A favor.md",
     "proj003-philosophy-empiricism/canvas/filosofia-mapa.canvas",
-    "Geração de subempregos.md",
     "proj002-geography-public-hearing/notes/Automação Industrial, Geração de Empregos e Qualidade de vida da população.md",
     "proj002-geography-public-hearing/notes/dados-geográficos.png",
     "proj002-geography-public-hearing/references/public-hearing.png",
@@ -231,10 +233,6 @@
     "proj003-philosophy-empiricism/notes",
     "proj003-philosophy-empiricism/canvas",
     "proj001-physical-education-dive-shot/notes/Aprendizado.md",
-    "proj002-geography-public-hearing/notes/Geração de empregos qualificados.md",
-    "proj001-physical-education-dive-shot/notes/Conclusão.md",
-    "proj001-physical-education-dive-shot/notes/Retorno a campo mourão e ascensão.md",
-    "proj001-physical-education-dive-shot/notes/Torneio.md",
     "proj001-physical-education-dive-shot/references/arremesso-img.png"
   ]
 }
