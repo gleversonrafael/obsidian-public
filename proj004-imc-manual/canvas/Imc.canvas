@@ -5,13 +5,15 @@
 		{"id":"51744e611999504b","type":"text","text":"[[Checklist]]","x":-352,"y":-293,"width":250,"height":60},
 		{"id":"b4a3987baa6d9705","type":"text","text":"Manual do PC","x":-602,"y":-166,"width":250,"height":60},
 		{"id":"3ab989c3c2ddf8a0","type":"text","text":"Manual técnico","x":-68,"y":-136,"width":229,"height":56},
-		{"id":"845a57a919df08fe","type":"text","text":"[[Comparações Visuais]]","x":-14,"y":-313,"width":250,"height":60},
-		{"id":"b91f2a2bb80ac37a","type":"text","text":"[[Interfaces Legadas]]","x":286,"y":-233,"width":250,"height":60},
-		{"id":"c6ca423ff2de27f9","type":"text","text":"[[Introdução]]","x":460,"y":-80,"width":250,"height":60},
 		{"id":"f4ff665a57e55f69","type":"text","text":"Etapas","x":36,"y":180,"width":250,"height":60},
 		{"id":"cfe9c83e6ebcc254","type":"text","text":"Visual","x":210,"y":360,"width":250,"height":60},
 		{"id":"0f7a3ceda14b42e3","type":"text","text":"Teórica","x":411,"y":150,"width":250,"height":60},
-		{"id":"0e21e25595d11f1b","type":"text","text":"[[Periféricos de entrada e saída]]","x":300,"y":62,"width":250,"height":60}
+		{"id":"845a57a919df08fe","type":"text","text":"[[Comparações Visuais]]","x":-78,"y":-440,"width":250,"height":60},
+		{"id":"c6ca423ff2de27f9","type":"text","text":"[[Introdução]]","x":286,"y":-540,"width":250,"height":60},
+		{"id":"0e21e25595d11f1b","type":"text","text":"[[Periféricos de entrada e saída]]","x":286,"y":-440,"width":250,"height":60},
+		{"id":"b91f2a2bb80ac37a","type":"text","text":"[[Interfaces Legadas]]","x":286,"y":-323,"width":250,"height":60},
+		{"id":"46c2867db64358fb","type":"text","text":"[[Rede]]","x":286,"y":-196,"width":250,"height":60},
+		{"id":"7e130d3ee5aea50f","x":286,"y":-80,"width":250,"height":60,"type":"text","text":"[[Áudio]]"}
 	],
 	"edges":[
 		{"id":"26b0da71a6d8d37e","fromNode":"b4a3987baa6d9705","fromSide":"bottom","toNode":"e39a376f732565db","toSide":"top"},
@@ -25,6 +27,12 @@
 		{"id":"8ba3a9f8768c7915","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"b91f2a2bb80ac37a","toSide":"left"},
 		{"id":"6ce19b806dd3a67a","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"c6ca423ff2de27f9","toSide":"left"},
 		{"id":"2192e430541624e3","fromNode":"f4ff665a57e55f69","fromSide":"right","toNode":"0f7a3ceda14b42e3","toSide":"left"},
-		{"id":"1db1a2083cb40e7e","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"0e21e25595d11f1b","toSide":"left"}
+		{"id":"1db1a2083cb40e7e","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"0e21e25595d11f1b","toSide":"left"},
+		{"id":"156f8423f2a9b52d","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"46c2867db64358fb","toSide":"left"},
+		{"id":"58bba9f6cfb5c166","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"7e130d3ee5aea50f","toSide":"left"},
+		{"id":"c30d598688320c0f","fromNode":"c6ca423ff2de27f9","fromSide":"bottom","toNode":"0e21e25595d11f1b","toSide":"top"},
+		{"id":"8ab5b490cb128b10","fromNode":"0e21e25595d11f1b","fromSide":"bottom","toNode":"b91f2a2bb80ac37a","toSide":"top"},
+		{"id":"c2e1937afbb57b12","fromNode":"b91f2a2bb80ac37a","fromSide":"bottom","toNode":"46c2867db64358fb","toSide":"top"},
+		{"id":"3dfc0d870a91b5c6","fromNode":"46c2867db64358fb","fromSide":"bottom","toNode":"7e130d3ee5aea50f","toSide":"top"}
 	]
 }
