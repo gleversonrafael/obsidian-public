@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"93404d1340016c63","type":"text","text":"<h1 style=\"text-align:center\">Sistema ILPF</h1>","x":-100,"y":-116,"width":250,"height":62,"color":"4"},
+		{"id":"34e71588262b3a32","type":"text","text":"[[Exemplos Reais]]","x":-100,"y":160,"width":250,"height":60,"color":"4"},
+		{"id":"02421fba1105f83b","type":"text","text":"[[Onde é mais comum]]","x":-100,"y":-340,"width":250,"height":60,"color":"4"},
+		{"id":"0254274401a82b6b","type":"text","text":"[[Principais características]]","x":240,"y":29,"width":250,"height":60,"color":"4"},
+		{"id":"028bd05db8fd2266","type":"text","text":"[[Principais vantagens]]","x":240,"y":-256,"width":250,"height":60,"color":"4"},
+		{"id":"64eb8f66c3d8b67c","type":"text","text":"[[O que é o sistema ilpf]]","x":240,"y":-114,"width":250,"height":60,"color":"4"},
+		{"id":"116476c0377336ac","type":"text","text":"[[Principais desafios]]","x":-440,"y":-116,"width":250,"height":60,"color":"4"},
+		{"id":"4e31d759e1dbeba5","type":"text","text":"[[Origem e contexto historico]]","x":-440,"y":-256,"width":250,"height":60,"color":"4"},
+		{"id":"2e2db9f6959bc37e","type":"text","text":"[[Relação com o meio ambiente]]","x":-440,"y":20,"width":250,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"1ac3120e58e8904b","fromNode":"93404d1340016c63","fromSide":"bottom","toNode":"2e2db9f6959bc37e","toSide":"right"},
+		{"id":"c8005721d3b2aabc","fromNode":"93404d1340016c63","fromSide":"bottom","toNode":"0254274401a82b6b","toSide":"left"},
+		{"id":"e9c0d6b8d79d6d22","fromNode":"93404d1340016c63","fromSide":"bottom","toNode":"34e71588262b3a32","toSide":"top"},
+		{"id":"d11ccdccf0d69611","fromNode":"93404d1340016c63","fromSide":"top","toNode":"02421fba1105f83b","toSide":"bottom"},
+		{"id":"3dabbd7c3c4dec89","fromNode":"93404d1340016c63","fromSide":"top","toNode":"028bd05db8fd2266","toSide":"left"},
+		{"id":"f379f5597b41959a","fromNode":"93404d1340016c63","fromSide":"top","toNode":"4e31d759e1dbeba5","toSide":"right"},
+		{"id":"bf9154e3508f6527","fromNode":"93404d1340016c63","fromSide":"right","toNode":"64eb8f66c3d8b67c","toSide":"left"},
+		{"id":"ddaa1c8e117052d2","fromNode":"93404d1340016c63","fromSide":"left","toNode":"116476c0377336ac","toSide":"right"}
+	]
+}
