@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85953d58881c4a89",
+        "id": "61a6767024cf2ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "37f00fe39b1006c2",
+            "id": "f96d01f6ef68ab06",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,25 +188,25 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "37f00fe39b1006c2",
+  "active": "bad56a98ce7dd16e",
   "lastOpenFiles": [
-    "Pasted image 20260919125831.png",
-    "Pasted image 20260919125810.png",
-    "notes/Introdução.md",
-    "Pasted image 20260919125531.png",
-    "Pasted image 20260919125627.png",
+    "notes/imagens.periféricos",
+    "notes/Possível divisão.md",
     "notes/Periféricos de entrada e saída.md",
+    "notes/Introdução.md",
+    "notes/imagens.periféricos/Pasted image 20260919125831.png",
+    "notes/imagens.periféricos/Pasted image 20260919125810.png",
+    "Pasted image 20260919125531.png",
+    "notes/imagens.periféricos/Pasted image 20260919125627.png",
     "Pasted image 20260919124650.png",
-    "Pasted image 20260919124542.png",
-    "Pasted image 20260919124810.png",
-    "Pasted image 20260919124906.png",
-    "Pasted image 20260919124956.png",
-    "Pasted image 20260919125040.png",
-    "Pasted image 20260919125153.png",
+    "notes/imagens.periféricos/Pasted image 20260919124542.png",
+    "notes/imagens.periféricos/Pasted image 20260919124810.png",
+    "notes/imagens.periféricos/Pasted image 20260919124906.png",
+    "notes/imagens.periféricos/Pasted image 20260919124956.png",
+    "notes/imagens.periféricos/Pasted image 20260919125040.png",
     "notes/Interfaces Legadas.md",
     "notes/Comparações Visuais.md",
     "Checklist.md",
-    "notes/Possível divisão.md",
     "2026-09-19.md",
     "canvas/Imc.canvas",
     "notes/Manual técnico.md"
