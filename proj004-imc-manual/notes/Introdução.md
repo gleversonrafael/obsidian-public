@@ -1,0 +1,4 @@
+
+A identificação precisa de periféricos, conectores e portas é um conhecimento fundamental na área de suporte e manutenção de computadores. No dia a dia, saber reconhecer rapidamente cada interface e entender seu funcionamento é o que garante a escolha correta dos cabos, previne danos aos equipamentos e acelera a solução de problemas técnicos.
+
+Este manual foi desenvolvido como um guia prático e visual para consulta técnica. Ao longo deste material, você encontrará a classificação completa dos periféricos de entrada, saída e de dupla função, além de uma galeria detalhada contendo conectores modernos, interfaces de vídeo, conexões de áudio, redes e portas legadas. Cada componente é apresentado com suas especificações essenciais, características físicas e dicas claras para identificação.

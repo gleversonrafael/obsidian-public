@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "368062aececb5a83",
+    "id": "1155c159a4ad2f40",
     "type": "split",
     "children": [
       {
-        "id": "949a9546431cd3a4",
+        "id": "61a6767024cf2ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "11ac6b6f560719aa",
+            "id": "f96d01f6ef68ab06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interfaces Legadas.md",
+                "file": "notes/Periféricos de entrada e saída.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interfaces Legadas"
+              "title": "Periféricos de entrada e saída"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8fe1a095c56de916",
+    "id": "0a727d26208b384e",
     "type": "split",
     "children": [
       {
-        "id": "e17dd75336e0cc36",
+        "id": "389e3581f3d36285",
         "type": "tabs",
         "children": [
           {
-            "id": "0452495f898f6cce",
+            "id": "bad56a98ce7dd16e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "b6a6fe5ade60e070",
+            "id": "56752cdbefb746b0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,11 +63,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "982ab3f22b43e58d",
+            "id": "1269f95652998bdc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,30 +76,30 @@
                 "searchQuery": ""
               },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "e46a66b745778454",
+    "id": "947efe73509bc6d3",
     "type": "split",
     "children": [
       {
-        "id": "1a33135e30aa0794",
+        "id": "0c62620a6c3415cd",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc3751254d55586",
+            "id": "79550e380c94c068",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
+                "file": "canvas/Sem título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,25 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos"
             }
           },
           {
-            "id": "24e7cf3e8e68ebe8",
+            "id": "a3282909c6336b7d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
+                "file": "canvas/Sem título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "fac83b62fe0422d3",
+            "id": "b85bcb7903f30387",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,11 +138,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "784cf8c5c13449b0",
+            "id": "d7bea47e64f6a61c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,22 +152,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
-            "id": "c56fdd02e61c8810",
+            "id": "58c1671cf1ad207e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
+                "file": "canvas/Sem título.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Sumário"
             }
           }
         ]
@@ -188,51 +188,27 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "11ac6b6f560719aa",
+  "active": "bad56a98ce7dd16e",
   "lastOpenFiles": [
-    "proj004-imc-manual/canvas/Sem título.canvas",
-    "Interfaces Legadas.md",
-    "Comparações Visuais.md",
+    "notes/imagens.periféricos",
+    "notes/Possível divisão.md",
+    "notes/Periféricos de entrada e saída.md",
+    "notes/Introdução.md",
+    "notes/imagens.periféricos/Pasted image 20260919125831.png",
+    "notes/imagens.periféricos/Pasted image 20260919125810.png",
+    "Pasted image 20260919125531.png",
+    "notes/imagens.periféricos/Pasted image 20260919125627.png",
+    "Pasted image 20260919124650.png",
+    "notes/imagens.periféricos/Pasted image 20260919124542.png",
+    "notes/imagens.periféricos/Pasted image 20260919124810.png",
+    "notes/imagens.periféricos/Pasted image 20260919124906.png",
+    "notes/imagens.periféricos/Pasted image 20260919124956.png",
+    "notes/imagens.periféricos/Pasted image 20260919125040.png",
+    "notes/Interfaces Legadas.md",
+    "notes/Comparações Visuais.md",
     "Checklist.md",
-    "Geração de subempregos.md",
-    "proj004-imc-manual/notes/Possível divisão.md",
-    "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
-    "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
-    "proj002-geography-public-hearing/canvas/mapa.canvas",
-    "proj002-geography-public-hearing/canvas/Mapa.canvas",
-    "proj002-geography-public-hearing/notes/Desmatamento.md",
-    "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
-    "proj002-geography-public-hearing/notes/Concentração de poder econômico.md",
-    "proj002-geography-public-hearing/notes/Que exigências faríamos.md",
-    "proj002-geography-public-hearing/notes/Água.md",
-    "proj002-geography-public-hearing/notes/O que ganhamos.md",
-    "proj002-geography-public-hearing/notes/O que perdemos.md",
-    "proj002-geography-public-hearing/notes/A favor.md",
-    "proj003-philosophy-empiricism/canvas/filosofia-mapa.canvas",
-    "proj002-geography-public-hearing/notes/Automação Industrial, Geração de Empregos e Qualidade de vida da população.md",
-    "proj002-geography-public-hearing/notes/dados-geográficos.png",
-    "proj002-geography-public-hearing/references/public-hearing.png",
-    "proj003-philosophy-empiricism/notes/resposta-iniciativa.md",
-    "proj003-philosophy-empiricism/canvas/iniciativa-filosofia-kitaro.md",
-    "Pasted image 20260907145345.png",
-    "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
-    "proj001-physical-education-dive-shot/notes/Principais erros.md",
-    "proj001-physical-education-dive-shot/notes/Quando fazer.md",
-    "proj001-physical-education-dive-shot/notes/Por que fazer.md",
-    "proj001-physical-education-dive-shot/notes/Características.md",
-    "proj001-physical-education-dive-shot/notes/O que é.md",
-    "proj001-physical-education-dive-shot/notes/Como fazer.md",
-    "Junsui Keiken (Experiência Pura).md",
-    "proj003-philosophy-empiricism/references/etienne.jpg",
-    "proj003-philosophy-empiricism/references/nishida.png",
-    "proj003-philosophy-empiricism/references/condillac.gif",
-    "proj003-philosophy-empiricism/Untitled.md",
-    "proj003-philosophy-empiricism/references",
-    "Pasted image 20260906142732.png",
-    "proj003-philosophy-empiricism/canvas/Untitled.md",
-    "proj003-philosophy-empiricism/notes",
-    "proj003-philosophy-empiricism/canvas",
-    "proj001-physical-education-dive-shot/notes/Aprendizado.md",
-    "proj001-physical-education-dive-shot/references/arremesso-img.png"
+    "2026-09-19.md",
+    "canvas/Imc.canvas",
+    "notes/Manual técnico.md"
   ]
 }
