@@ -2,25 +2,29 @@
 	"nodes":[
 		{"id":"e39a376f732565db","type":"text","text":"<h1> O que fazer </h1>","x":-288,"y":23,"width":250,"height":77},
 		{"id":"7f9142019a49a1e4","type":"text","text":"[[Possível divisão]]","x":-288,"y":180,"width":250,"height":60},
-		{"id":"f4ff665a57e55f69","type":"text","text":"Etapas","x":36,"y":113,"width":250,"height":60},
-		{"id":"cfe9c83e6ebcc254","type":"text","text":"Visual","x":182,"y":269,"width":250,"height":60},
 		{"id":"51744e611999504b","type":"text","text":"[[Checklist]]","x":-352,"y":-293,"width":250,"height":60},
 		{"id":"b4a3987baa6d9705","type":"text","text":"Manual do PC","x":-602,"y":-166,"width":250,"height":60},
-		{"id":"3ab989c3c2ddf8a0","type":"text","text":"Manual técnico","x":-68,"y":-136,"width":250,"height":60},
-		{"id":"0f7a3ceda14b42e3","type":"text","text":"Teórica","x":380,"y":83,"width":250,"height":60},
+		{"id":"3ab989c3c2ddf8a0","type":"text","text":"Manual técnico","x":-68,"y":-136,"width":229,"height":56},
 		{"id":"845a57a919df08fe","type":"text","text":"[[Comparações Visuais]]","x":-14,"y":-313,"width":250,"height":60},
-		{"id":"b91f2a2bb80ac37a","x":286,"y":-233,"width":250,"height":60,"type":"text","text":"[[Interfaces Legadas]]"}
+		{"id":"b91f2a2bb80ac37a","type":"text","text":"[[Interfaces Legadas]]","x":286,"y":-233,"width":250,"height":60},
+		{"id":"c6ca423ff2de27f9","type":"text","text":"[[Introdução]]","x":460,"y":-80,"width":250,"height":60},
+		{"id":"f4ff665a57e55f69","type":"text","text":"Etapas","x":36,"y":180,"width":250,"height":60},
+		{"id":"cfe9c83e6ebcc254","type":"text","text":"Visual","x":210,"y":360,"width":250,"height":60},
+		{"id":"0f7a3ceda14b42e3","type":"text","text":"Teórica","x":411,"y":150,"width":250,"height":60},
+		{"id":"0e21e25595d11f1b","type":"text","text":"[[Periféricos de entrada e saída]]","x":300,"y":62,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"26b0da71a6d8d37e","fromNode":"b4a3987baa6d9705","fromSide":"bottom","toNode":"e39a376f732565db","toSide":"top"},
 		{"id":"7a826f73fe9cdf55","fromNode":"3ab989c3c2ddf8a0","fromSide":"bottom","toNode":"e39a376f732565db","toSide":"top"},
 		{"id":"c6fc3c2764a41eb2","fromNode":"e39a376f732565db","fromSide":"bottom","toNode":"7f9142019a49a1e4","toSide":"top"},
 		{"id":"e3ea56e566194e50","fromNode":"e39a376f732565db","fromSide":"right","toNode":"f4ff665a57e55f69","toSide":"top"},
-		{"id":"2192e430541624e3","fromNode":"f4ff665a57e55f69","fromSide":"right","toNode":"0f7a3ceda14b42e3","toSide":"left"},
 		{"id":"18b4e212bc9ce24c","fromNode":"0f7a3ceda14b42e3","fromSide":"bottom","toNode":"cfe9c83e6ebcc254","toSide":"top"},
 		{"id":"ce0c6bc93a62368d","fromNode":"51744e611999504b","fromSide":"bottom","toNode":"e39a376f732565db","toSide":"top"},
 		{"id":"192c9a72505f6919","fromNode":"e39a376f732565db","fromSide":"top","toNode":"51744e611999504b","toSide":"bottom"},
 		{"id":"38c97322168bdba6","fromNode":"3ab989c3c2ddf8a0","fromSide":"top","toNode":"845a57a919df08fe","toSide":"bottom"},
-		{"id":"8ba3a9f8768c7915","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"b91f2a2bb80ac37a","toSide":"left"}
+		{"id":"8ba3a9f8768c7915","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"b91f2a2bb80ac37a","toSide":"left"},
+		{"id":"6ce19b806dd3a67a","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"c6ca423ff2de27f9","toSide":"left"},
+		{"id":"2192e430541624e3","fromNode":"f4ff665a57e55f69","fromSide":"right","toNode":"0f7a3ceda14b42e3","toSide":"left"},
+		{"id":"1db1a2083cb40e7e","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"0e21e25595d11f1b","toSide":"left"}
 	]
 }

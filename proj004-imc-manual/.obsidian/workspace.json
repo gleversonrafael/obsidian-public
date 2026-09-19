@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "1155c159a4ad2f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "85953d58881c4a89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f00fe39b1006c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Periféricos de entrada e saída.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Periféricos de entrada e saída"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a727d26208b384e",
+    "type": "split",
+    "children": [
+      {
+        "id": "389e3581f3d36285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bad56a98ce7dd16e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "56752cdbefb746b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1269f95652998bdc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "947efe73509bc6d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c62620a6c3415cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79550e380c94c068",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "canvas/Sem título.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "a3282909c6336b7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "canvas/Sem título.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "b85bcb7903f30387",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d7bea47e64f6a61c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "58c1671cf1ad207e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "canvas/Sem título.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "37f00fe39b1006c2",
+  "lastOpenFiles": [
+    "Pasted image 20260919125831.png",
+    "Pasted image 20260919125810.png",
+    "notes/Introdução.md",
+    "Pasted image 20260919125531.png",
+    "Pasted image 20260919125627.png",
+    "notes/Periféricos de entrada e saída.md",
+    "Pasted image 20260919124650.png",
+    "Pasted image 20260919124542.png",
+    "Pasted image 20260919124810.png",
+    "Pasted image 20260919124906.png",
+    "Pasted image 20260919124956.png",
+    "Pasted image 20260919125040.png",
+    "Pasted image 20260919125153.png",
+    "notes/Interfaces Legadas.md",
+    "notes/Comparações Visuais.md",
+    "Checklist.md",
+    "notes/Possível divisão.md",
+    "2026-09-19.md",
+    "canvas/Imc.canvas",
+    "notes/Manual técnico.md"
+  ]
+}
