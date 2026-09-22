@@ -9,11 +9,12 @@
 		{"id":"cfe9c83e6ebcc254","type":"text","text":"Visual","x":210,"y":360,"width":250,"height":60},
 		{"id":"0f7a3ceda14b42e3","type":"text","text":"Teórica","x":411,"y":150,"width":250,"height":60},
 		{"id":"845a57a919df08fe","type":"text","text":"[[Comparações Visuais]]","x":-78,"y":-440,"width":250,"height":60},
-		{"id":"c6ca423ff2de27f9","type":"text","text":"[[Introdução]]","x":286,"y":-540,"width":250,"height":60},
-		{"id":"0e21e25595d11f1b","type":"text","text":"[[Periféricos de entrada e saída]]","x":286,"y":-440,"width":250,"height":60},
-		{"id":"b91f2a2bb80ac37a","type":"text","text":"[[Interfaces Legadas]]","x":286,"y":-323,"width":250,"height":60},
-		{"id":"46c2867db64358fb","type":"text","text":"[[Rede]]","x":286,"y":-196,"width":250,"height":60},
-		{"id":"7e130d3ee5aea50f","x":286,"y":-80,"width":250,"height":60,"type":"text","text":"[[Áudio]]"}
+		{"id":"7e130d3ee5aea50f","type":"text","text":"[[Áudio]]","x":286,"y":-140,"width":250,"height":60,"color":"4"},
+		{"id":"46c2867db64358fb","type":"text","text":"[[Rede]]","x":286,"y":-233,"width":250,"height":60,"color":"4"},
+		{"id":"b91f2a2bb80ac37a","type":"text","text":"[[Interfaces Legadas]]","x":286,"y":-323,"width":250,"height":60,"color":"4"},
+		{"id":"fdd1e3f9f2e71010","type":"text","text":"[[USB, Mini, e HDMI.canvas]]","x":286,"y":-410,"width":250,"height":60,"color":"4"},
+		{"id":"0e21e25595d11f1b","type":"text","text":"[[Periféricos de entrada e saída]]","x":286,"y":-500,"width":250,"height":60,"color":"4"},
+		{"id":"c6ca423ff2de27f9","type":"text","text":"[[Introdução]]","x":286,"y":-600,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"26b0da71a6d8d37e","fromNode":"b4a3987baa6d9705","fromSide":"bottom","toNode":"e39a376f732565db","toSide":"top"},
@@ -33,6 +34,7 @@
 		{"id":"c30d598688320c0f","fromNode":"c6ca423ff2de27f9","fromSide":"bottom","toNode":"0e21e25595d11f1b","toSide":"top"},
 		{"id":"8ab5b490cb128b10","fromNode":"0e21e25595d11f1b","fromSide":"bottom","toNode":"b91f2a2bb80ac37a","toSide":"top"},
 		{"id":"c2e1937afbb57b12","fromNode":"b91f2a2bb80ac37a","fromSide":"bottom","toNode":"46c2867db64358fb","toSide":"top"},
-		{"id":"3dfc0d870a91b5c6","fromNode":"46c2867db64358fb","fromSide":"bottom","toNode":"7e130d3ee5aea50f","toSide":"top"}
+		{"id":"3dfc0d870a91b5c6","fromNode":"46c2867db64358fb","fromSide":"bottom","toNode":"7e130d3ee5aea50f","toSide":"top"},
+		{"id":"38da17ae4c77c910","fromNode":"3ab989c3c2ddf8a0","fromSide":"right","toNode":"fdd1e3f9f2e71010","toSide":"left"}
 	]
 }

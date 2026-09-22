@@ -55,10 +55,10 @@
 		{"id":"c770f9776ef40abe","type":"text","text":"(S+) Mas em relação ao salário\nExiste algum plano de carreira? (Maristela)","x":-4800,"y":-2055,"width":250,"height":150,"color":"3"},
 		{"id":"a43637205143c680","type":"text","text":"\n\n(S+) Existe programas socioeducacionais previsto para industria?","x":-4420,"y":-2055,"width":250,"height":100,"color":"3"},
 		{"id":"2030f5c3e53ff177","type":"text","text":"(R) Como pretendem criar mão de obra qualificada\n\nSupervisores por parte da contablidade, rh, gestão de finanças, manutenção de maquinários, incentivo a qualificação formal, oferecer vagas de emprego, fazendo parcerias com faculdades, programa jovem-aprendiz,","x":-4100,"y":-1861,"width":250,"height":320,"color":"#8cff75"},
-		{"id":"3d3927705fbe3555","x":-4380,"y":-1180,"width":250,"height":146,"type":"text","text":"Por que tanto dinheiro é destinado à infraestrutura, mas pouco para pagar os funcionários?"},
-		{"id":"520cc9a85231b5ad","x":-4700,"y":-1080,"width":250,"height":207,"type":"text","text":"2,7 BILHÕES\n2,4 BILHÕES => INFRAESTRUTURA\n\n300 MILHÕES => PAGAR FUNCIONÁRIO, MÃO DE OBRA, MATÉRIA PRIMA"},
-		{"id":"49d50aef9e6e32c7","x":-4700,"y":-854,"width":250,"height":180,"type":"text","text":"COMO PRODUZIR LUCRO?\nPLANEJAMENTO FINANCEIRO DETALHADO DO QUE FAZER"},
-		{"id":"2c4e83499a8c1322","x":-4980,"y":-1078,"width":250,"height":205,"type":"text","text":"Dados essenciais\nQuanto a gente tem?\nQuanto vai gastar com cada coisa?\n\nComo produzir lucro?"}
+		{"id":"3d3927705fbe3555","type":"text","text":"Por que tanto dinheiro é destinado à infraestrutura, mas pouco para pagar os funcionários?","x":-4380,"y":-1180,"width":250,"height":146},
+		{"id":"520cc9a85231b5ad","type":"text","text":"2,7 BILHÕES\n2,4 BILHÕES => INFRAESTRUTURA\n\n300 MILHÕES => PAGAR FUNCIONÁRIO, MÃO DE OBRA, MATÉRIA PRIMA","x":-4700,"y":-1080,"width":250,"height":207},
+		{"id":"49d50aef9e6e32c7","type":"text","text":"COMO PRODUZIR LUCRO?\nPLANEJAMENTO FINANCEIRO DETALHADO DO QUE FAZER","x":-4700,"y":-854,"width":250,"height":180},
+		{"id":"2c4e83499a8c1322","type":"text","text":"Dados essenciais\nQuanto a gente tem?\nQuanto vai gastar com cada coisa?\n\nComo produzir lucro?","x":-4980,"y":-1078,"width":250,"height":205}
 	],
 	"edges":[
 		{"id":"33e61fd6108c3d13","fromNode":"a833ffc2f535ceb0","fromSide":"bottom","toNode":"954aa896c1d4cce6","toSide":"top"},

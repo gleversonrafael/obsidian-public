@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "949a9546431cd3a4",
+        "id": "c30a269d50fa023e",
         "type": "tabs",
         "children": [
           {
-            "id": "11ac6b6f560719aa",
+            "id": "ce623e06b5a7cc51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Interfaces Legadas.md",
-                "mode": "source",
-                "source": false
+                "file": "proj004-imc-manual/canvas/Imc.canvas",
+                "viewState": {
+                  "x": 429.2291031774631,
+                  "y": -245.5138847400516,
+                  "zoom": -0.8054274734864899
+                }
               },
-              "icon": "lucide-file",
-              "title": "Interfaces Legadas"
+              "icon": "lucide-layout-dashboard",
+              "title": "Imc"
             }
           }
         ]
@@ -46,7 +49,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -179,60 +182,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "11ac6b6f560719aa",
+  "active": "0452495f898f6cce",
   "lastOpenFiles": [
-    "proj004-imc-manual/canvas/Sem título.canvas",
-    "Interfaces Legadas.md",
-    "Comparações Visuais.md",
-    "Checklist.md",
-    "Geração de subempregos.md",
+    "proj004-imc-manual/canvas/USB, Mini, e HDMI.canvas",
+    "proj004-imc-manual/notes/usb-and-more/VGA.md",
+    "proj004-imc-manual/notes/usb-and-more/DisplayPort.md",
+    "proj004-imc-manual/notes/usb-and-more/Comparação visual geral.md",
+    "proj004-imc-manual/notes/usb-and-more/DVI.md",
+    "proj002-geography-public-hearing/HDMI.md",
+    "proj004-imc-manual/notes/usb-and-more/Desafio.md",
+    "proj004-imc-manual/notes/usb-and-more/Comparação.md",
+    "proj003-philosophy-empiricism/Micro-USB.md",
+    "proj004-imc-manual/notes/usb-and-more/Mini-USB.md",
+    "proj004-imc-manual/notes/usb-and-more/USB-C.md",
+    "proj004-imc-manual/notes/usb-and-more/USB-B.md",
+    "proj004-imc-manual/notes/usb-and-more/USB-A.md",
+    "proj004-imc-manual/notes/usb-and-more/USB.md",
+    "proj004-imc-manual/notes/usb-and-more",
+    "proj004-imc-manual/canvas/Imc.canvas",
+    "proj004-imc-manual/Checklist.md",
+    "proj004-imc-manual/notes/Comparações Visuais.md",
+    "proj004-imc-manual/notes/Áudio.md",
+    "proj004-imc-manual/notes/Rede.md",
+    "proj004-imc-manual/notes/Interfaces Legadas.md",
+    "proj004-imc-manual/notes/Periféricos de entrada e saída.md",
     "proj004-imc-manual/notes/Possível divisão.md",
+    "proj005-geography-ILPF/canvas.canvas",
+    "proj005-geography-ILPF/notes/Onde é mais comum.md",
+    "proj005-geography-ILPF/notes/Principais vantagens.md",
+    "proj005-geography-ILPF/notes/Principais desafios.md",
+    "proj005-geography-ILPF/notes/Origem e contexto historico.md",
+    "proj005-geography-ILPF/notes/O que é o sistema ilpf.md",
+    "proj004-imc-manual/canvas/Sem título.canvas",
     "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
     "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
     "proj002-geography-public-hearing/canvas/mapa.canvas",
     "proj002-geography-public-hearing/canvas/Mapa.canvas",
-    "proj002-geography-public-hearing/notes/Desmatamento.md",
     "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
-    "proj002-geography-public-hearing/notes/Concentração de poder econômico.md",
-    "proj002-geography-public-hearing/notes/Que exigências faríamos.md",
-    "proj002-geography-public-hearing/notes/Água.md",
-    "proj002-geography-public-hearing/notes/O que ganhamos.md",
-    "proj002-geography-public-hearing/notes/O que perdemos.md",
-    "proj002-geography-public-hearing/notes/A favor.md",
     "proj003-philosophy-empiricism/canvas/filosofia-mapa.canvas",
-    "proj002-geography-public-hearing/notes/Automação Industrial, Geração de Empregos e Qualidade de vida da população.md",
     "proj002-geography-public-hearing/notes/dados-geográficos.png",
     "proj002-geography-public-hearing/references/public-hearing.png",
-    "proj003-philosophy-empiricism/notes/resposta-iniciativa.md",
-    "proj003-philosophy-empiricism/canvas/iniciativa-filosofia-kitaro.md",
     "Pasted image 20260907145345.png",
-    "proj001-physical-education-dive-shot/canvas/roteiro-v1.0.canvas",
-    "proj001-physical-education-dive-shot/notes/Principais erros.md",
-    "proj001-physical-education-dive-shot/notes/Quando fazer.md",
-    "proj001-physical-education-dive-shot/notes/Por que fazer.md",
-    "proj001-physical-education-dive-shot/notes/Características.md",
-    "proj001-physical-education-dive-shot/notes/O que é.md",
-    "proj001-physical-education-dive-shot/notes/Como fazer.md",
-    "Junsui Keiken (Experiência Pura).md",
     "proj003-philosophy-empiricism/references/etienne.jpg",
     "proj003-philosophy-empiricism/references/nishida.png",
     "proj003-philosophy-empiricism/references/condillac.gif",
-    "proj003-philosophy-empiricism/Untitled.md",
     "proj003-philosophy-empiricism/references",
     "Pasted image 20260906142732.png",
-    "proj003-philosophy-empiricism/canvas/Untitled.md",
     "proj003-philosophy-empiricism/notes",
     "proj003-philosophy-empiricism/canvas",
-    "proj001-physical-education-dive-shot/notes/Aprendizado.md",
     "proj001-physical-education-dive-shot/references/arremesso-img.png"
   ]
 }

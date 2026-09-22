@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"bb1dfd04c8009701","type":"text","text":"Retornar","x":295,"y":44,"width":250,"height":60},
+		{"id":"9aa512d1a650097c","type":"text","text":"[[Imc.canvas]]","x":295,"y":104,"width":250,"height":60,"color":"6"},
+		{"id":"850384554f9c66a8","type":"text","text":"[[USB]]","x":-365,"y":-121,"width":250,"height":60},
+		{"id":"b79486c38b8a1565","type":"text","text":"[[Micro-USB]]","x":-330,"y":-385,"width":250,"height":60},
+		{"id":"4a61281f66ef35ad","type":"text","text":"[[Comparação]]","x":-10,"y":-325,"width":250,"height":60},
+		{"id":"7ceabae9106a32cc","type":"text","text":"[[Desafio]]","x":-365,"y":14,"width":250,"height":60},
+		{"id":"d83e77f1e7bf4f09","type":"text","text":"[[USB-A]]","x":-720,"y":-211,"width":250,"height":60},
+		{"id":"cda5ff7c230c6164","type":"text","text":"[[USB-B]]","x":-720,"y":-121,"width":250,"height":60},
+		{"id":"151115641fca5c72","type":"text","text":"[[USB-C]]","x":-720,"y":-31,"width":250,"height":60},
+		{"id":"28fc18345afc9ab1","type":"text","text":"[[Mini-USB]]","x":-615,"y":-385,"width":250,"height":60},
+		{"id":"ad3983abf5a415e8","type":"text","text":"[[HDMI]]","x":170,"y":400,"width":250,"height":60},
+		{"id":"eec25a82dbcf28aa","type":"text","text":"Vídeo","x":545,"y":400,"width":250,"height":60},
+		{"id":"738d30a47b5550b6","type":"text","text":"[[DVI]]","x":986,"y":400,"width":250,"height":60},
+		{"id":"1b8ded39beb39427","type":"text","text":"[[DisplayPort]]","x":370,"y":582,"width":250,"height":60},
+		{"id":"e65d9b28a82e9a0a","type":"text","text":"[[VGA]]","x":736,"y":582,"width":250,"height":60},
+		{"id":"9ed3e974962c06ee","type":"text","text":"[[Comparação visual geral]]","x":700,"y":240,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"94cb6b6147d63827","fromNode":"bb1dfd04c8009701","fromSide":"bottom","toNode":"9aa512d1a650097c","toSide":"top"},
+		{"id":"bb3266d021be1215","fromNode":"eec25a82dbcf28aa","fromSide":"right","toNode":"738d30a47b5550b6","toSide":"left"},
+		{"id":"49e80f6b9accf98a","fromNode":"eec25a82dbcf28aa","fromSide":"bottom","toNode":"e65d9b28a82e9a0a","toSide":"top"},
+		{"id":"c2508c6a35db0388","fromNode":"eec25a82dbcf28aa","fromSide":"bottom","toNode":"1b8ded39beb39427","toSide":"top"},
+		{"id":"70e0f604fb6fb7c4","fromNode":"eec25a82dbcf28aa","fromSide":"left","toNode":"ad3983abf5a415e8","toSide":"right"},
+		{"id":"835e068a62c4ee3e","fromNode":"850384554f9c66a8","fromSide":"top","toNode":"b79486c38b8a1565","toSide":"bottom"},
+		{"id":"61e5684268c75de7","fromNode":"850384554f9c66a8","fromSide":"top","toNode":"28fc18345afc9ab1","toSide":"bottom"},
+		{"id":"d2458da6d372e371","fromNode":"850384554f9c66a8","fromSide":"left","toNode":"d83e77f1e7bf4f09","toSide":"right"},
+		{"id":"571ecec6423b03d7","fromNode":"850384554f9c66a8","fromSide":"left","toNode":"cda5ff7c230c6164","toSide":"right"},
+		{"id":"85a369341b40276b","fromNode":"850384554f9c66a8","fromSide":"left","toNode":"151115641fca5c72","toSide":"right"},
+		{"id":"5af7a7cbc386ba17","fromNode":"850384554f9c66a8","fromSide":"top","toNode":"4a61281f66ef35ad","toSide":"bottom"},
+		{"id":"fd8b93e94eed43fd","fromNode":"850384554f9c66a8","fromSide":"bottom","toNode":"7ceabae9106a32cc","toSide":"top"},
+		{"id":"ed6a2b30eca1f66f","fromNode":"eec25a82dbcf28aa","fromSide":"top","toNode":"9ed3e974962c06ee","toSide":"bottom"}
+	]
+}
