@@ -8,7 +8,22 @@
 		{"id":"64eb8f66c3d8b67c","type":"text","text":"[[O que é o sistema ilpf]]","x":240,"y":-114,"width":250,"height":60,"color":"4"},
 		{"id":"116476c0377336ac","type":"text","text":"[[Principais desafios]]","x":-440,"y":-116,"width":250,"height":60,"color":"4"},
 		{"id":"4e31d759e1dbeba5","type":"text","text":"[[Origem e contexto historico]]","x":-440,"y":-256,"width":250,"height":60,"color":"4"},
-		{"id":"2e2db9f6959bc37e","type":"text","text":"[[Relação com o meio ambiente]]","x":-440,"y":20,"width":250,"height":50,"color":"4"}
+		{"id":"2e2db9f6959bc37e","type":"text","text":"[[Relação com o meio ambiente]]","x":-440,"y":20,"width":250,"height":50,"color":"4"},
+		{"id":"d54e5f3b4a44f851","type":"text","text":"3. Diversificação da produção e renda","x":647,"y":340,"width":250,"height":80,"color":"4"},
+		{"id":"839a94cbbd26628b","type":"text","text":"Produzir mais e concentrar menos","x":647,"y":420,"width":250,"height":80,"color":"4"},
+		{"id":"7fdd79b6a49aa769","type":"text","text":"2. Aproveitamento e manejo do solo","x":667,"y":220,"width":250,"height":90,"color":"4"},
+		{"id":"9536d876d5e941c5","type":"text","text":"O sistema pode permitir que uma mesma área seja utilizada para diferentes atividades ao longo do tempo, aumentando a eficiência do uso dos recursos produtivos.","x":990,"y":286,"width":250,"height":214},
+		{"id":"b5d5dfa5d6513df4","type":"text","text":"1. Integração de diferentes sistemas produtivos","x":667,"y":29,"width":250,"height":100},
+		{"id":"836cc27a0ae60f5f","type":"text","text":"Geração de emprego","x":1020,"y":129,"width":250,"height":60},
+		{"id":"0320d42cbb61d44a","type":"text","text":"Aumento da produtividade","x":1020,"y":19,"width":250,"height":60},
+		{"id":"3b72b1905a6cfdb9","type":"text","text":"Usam os recursos mais eficientemente","x":1335,"y":129,"width":250,"height":60},
+		{"id":"9f14573c14729df6","type":"text","text":"Micro clima promove bem estar","x":1335,"y":19,"width":250,"height":64},
+		{"id":"42469953cd9eec11","type":"text","text":"Sistema de integração","x":647,"y":-421,"width":250,"height":60},
+		{"id":"0b7b971e33b0f218","type":"text","text":"ILF (Agropastoril) (Lavoura + Floresta) - Silviagrícola","x":1420,"y":-585,"width":440,"height":60},
+		{"id":"eaad22b1139bb87e","type":"text","text":"ILP (Lavoura + Pecuária) -> Consórcio, rotação ou sucessão -> Agropastoril","x":1420,"y":-505,"width":440,"height":90},
+		{"id":"4ce93d4552116684","type":"text","text":"4 tipos","x":1060,"y":-440,"width":250,"height":60},
+		{"id":"2c60207269c96a31","type":"text","text":"IPF (Pecuária + Floresta) -> Consórcio (Silvipastoril)","x":1420,"y":-391,"width":440,"height":60},
+		{"id":"90a0e63617bf789f","type":"text","text":"ILPF (Agrossilvipastoril)","x":1420,"y":-305,"width":440,"height":60}
 	],
 	"edges":[
 		{"id":"1ac3120e58e8904b","fromNode":"93404d1340016c63","fromSide":"bottom","toNode":"2e2db9f6959bc37e","toSide":"right"},
@@ -18,6 +33,20 @@
 		{"id":"3dabbd7c3c4dec89","fromNode":"93404d1340016c63","fromSide":"top","toNode":"028bd05db8fd2266","toSide":"left"},
 		{"id":"f379f5597b41959a","fromNode":"93404d1340016c63","fromSide":"top","toNode":"4e31d759e1dbeba5","toSide":"right"},
 		{"id":"bf9154e3508f6527","fromNode":"93404d1340016c63","fromSide":"right","toNode":"64eb8f66c3d8b67c","toSide":"left"},
-		{"id":"ddaa1c8e117052d2","fromNode":"93404d1340016c63","fromSide":"left","toNode":"116476c0377336ac","toSide":"right"}
+		{"id":"ddaa1c8e117052d2","fromNode":"93404d1340016c63","fromSide":"left","toNode":"116476c0377336ac","toSide":"right"},
+		{"id":"4037195834c96f03","fromNode":"4ce93d4552116684","fromSide":"right","toNode":"0b7b971e33b0f218","toSide":"left"},
+		{"id":"9ebd34d9db7cf183","fromNode":"4ce93d4552116684","fromSide":"right","toNode":"eaad22b1139bb87e","toSide":"left"},
+		{"id":"b024789bd1d25f57","fromNode":"4ce93d4552116684","fromSide":"right","toNode":"2c60207269c96a31","toSide":"left"},
+		{"id":"c23b5875220d2803","fromNode":"4ce93d4552116684","fromSide":"right","toNode":"90a0e63617bf789f","toSide":"left"},
+		{"id":"baad62e2082c1826","fromNode":"64eb8f66c3d8b67c","fromSide":"right","toNode":"42469953cd9eec11","toSide":"left"},
+		{"id":"03e5f38d16b8e331","fromNode":"0254274401a82b6b","fromSide":"right","toNode":"b5d5dfa5d6513df4","toSide":"left"},
+		{"id":"d0e103a53a8aad8e","fromNode":"0254274401a82b6b","fromSide":"right","toNode":"7fdd79b6a49aa769","toSide":"left"},
+		{"id":"d5d9180bd09e1a10","fromNode":"0254274401a82b6b","fromSide":"right","toNode":"d54e5f3b4a44f851","toSide":"left"},
+		{"id":"136d86c6ccf7c9b5","fromNode":"7fdd79b6a49aa769","fromSide":"right","toNode":"9536d876d5e941c5","toSide":"top","toEnd":"none"},
+		{"id":"df8458a705287228","fromNode":"b5d5dfa5d6513df4","fromSide":"right","toNode":"836cc27a0ae60f5f","toSide":"left","toEnd":"none"},
+		{"id":"3a6a9adf8e9a3494","fromNode":"028bd05db8fd2266","fromSide":"right","toNode":"0254274401a82b6b","toSide":"right","toEnd":"none","color":"4"},
+		{"id":"12349b49c6ff9c6b","fromNode":"b5d5dfa5d6513df4","fromSide":"right","toNode":"0320d42cbb61d44a","toSide":"left","toEnd":"none"},
+		{"id":"2d885203cce53654","fromNode":"0320d42cbb61d44a","fromSide":"right","toNode":"9f14573c14729df6","toSide":"left","toEnd":"none"},
+		{"id":"7eeb56f8a8676d1e","fromNode":"0320d42cbb61d44a","fromSide":"right","toNode":"3b72b1905a6cfdb9","toSide":"left","toEnd":"none"}
 	]
 }

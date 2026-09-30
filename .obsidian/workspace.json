@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c30a269d50fa023e",
+        "id": "3d8aecc8e7f23848",
         "type": "tabs",
         "children": [
           {
-            "id": "ce623e06b5a7cc51",
+            "id": "c269a37e738a0d41",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "proj004-imc-manual/canvas/Imc.canvas",
+                "file": "proj005-geography-ILPF/canvas.canvas",
                 "viewState": {
-                  "x": 429.2291031774631,
-                  "y": -245.5138847400516,
-                  "zoom": -0.8054274734864899
+                  "x": 1084.3441598497009,
+                  "y": 385.34341816172343,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Imc"
+              "title": "canvas"
             }
           }
         ]
@@ -191,41 +191,95 @@
       "bases:Create new base": false
     }
   },
-  "active": "0452495f898f6cce",
+  "floating": {
+    "id": "2ddd42c6b6302c50",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a3acf41bb35902f3",
+        "type": "window",
+        "children": [
+          {
+            "id": "9a878eb38de66c3e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f11b98d7be09d3ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "proj005-geography-ILPF/notes/Principais características.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Principais características"
+                }
+              },
+              {
+                "id": "fed92026fd6470cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "proj005-geography-ILPF/notes/Principais vantagens.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Principais vantagens"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": -1080,
+        "y": 229,
+        "width": 1122,
+        "height": 680,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c269a37e738a0d41",
   "lastOpenFiles": [
+    "proj005-geography-ILPF/notes/Principais vantagens.md",
+    "proj005-geography-ILPF/canvas.canvas",
+    "proj005-geography-ILPF/notes/Principais características.md",
+    "proj005-geography-ILPF/notes/O que é o sistema ilpf.md",
+    "proj005-geography-ILPF/notes/Relação com o meio ambiente.md",
+    "proj005-geography-ILPF/notes/Onde é mais comum.md",
+    "proj004-imc-manual/canvas/Imc.canvas",
+    "proj005-geography-ILPF/notes/Principais desafios.md",
+    "proj005-geography-ILPF/notes/Exemplos Reais.md",
+    "proj002-geography-public-hearing/canvas/mapa.canvas",
     "proj004-imc-manual/canvas/USB, Mini, e HDMI.canvas",
-    "proj004-imc-manual/notes/usb-and-more/VGA.md",
-    "proj004-imc-manual/notes/usb-and-more/DisplayPort.md",
     "proj004-imc-manual/notes/usb-and-more/Comparação visual geral.md",
     "proj004-imc-manual/notes/usb-and-more/DVI.md",
+    "proj004-imc-manual/notes/usb-and-more/VGA.md",
+    "proj004-imc-manual/notes/usb-and-more/DisplayPort.md",
     "proj002-geography-public-hearing/HDMI.md",
-    "proj004-imc-manual/notes/usb-and-more/Desafio.md",
     "proj004-imc-manual/notes/usb-and-more/Comparação.md",
-    "proj003-philosophy-empiricism/Micro-USB.md",
+    "proj004-imc-manual/notes/Micro-USB.md",
     "proj004-imc-manual/notes/usb-and-more/Mini-USB.md",
     "proj004-imc-manual/notes/usb-and-more/USB-C.md",
     "proj004-imc-manual/notes/usb-and-more/USB-B.md",
     "proj004-imc-manual/notes/usb-and-more/USB-A.md",
     "proj004-imc-manual/notes/usb-and-more/USB.md",
-    "proj004-imc-manual/notes/usb-and-more",
-    "proj004-imc-manual/canvas/Imc.canvas",
     "proj004-imc-manual/Checklist.md",
+    "proj004-imc-manual/notes/usb-and-more/Desafio.md",
+    "proj004-imc-manual/notes/usb-and-more",
     "proj004-imc-manual/notes/Comparações Visuais.md",
     "proj004-imc-manual/notes/Áudio.md",
     "proj004-imc-manual/notes/Rede.md",
     "proj004-imc-manual/notes/Interfaces Legadas.md",
-    "proj004-imc-manual/notes/Periféricos de entrada e saída.md",
-    "proj004-imc-manual/notes/Possível divisão.md",
-    "proj005-geography-ILPF/canvas.canvas",
-    "proj005-geography-ILPF/notes/Onde é mais comum.md",
-    "proj005-geography-ILPF/notes/Principais vantagens.md",
-    "proj005-geography-ILPF/notes/Principais desafios.md",
-    "proj005-geography-ILPF/notes/Origem e contexto historico.md",
-    "proj005-geography-ILPF/notes/O que é o sistema ilpf.md",
     "proj004-imc-manual/canvas/Sem título.canvas",
     "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
     "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
-    "proj002-geography-public-hearing/canvas/mapa.canvas",
     "proj002-geography-public-hearing/canvas/Mapa.canvas",
     "proj002-geography-public-hearing/canvas/Monopólio e concentração de poder.canvas",
     "proj003-philosophy-empiricism/canvas/filosofia-mapa.canvas",
