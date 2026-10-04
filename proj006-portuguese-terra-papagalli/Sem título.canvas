@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"afdf224be2fe74f1","type":"text","text":"\nTerra papagalli","x":-163,"y":-73,"width":250,"height":60,"color":"1"},
+		{"id":"65d5e2f156a9d9ac","type":"text","text":"[[objetivo]]","x":-163,"y":-260,"width":250,"height":60},
+		{"id":"bd9e90526aa13dbb","x":-126,"y":56,"width":250,"height":124,"type":"text","text":"[[Como a fauna e a flora do Brasil (a Terra dos Papagaios) são descritas no romance]]"}
+	],
+	"edges":[
+		{"id":"de8a2a92acf1182d","fromNode":"afdf224be2fe74f1","fromSide":"top","toNode":"65d5e2f156a9d9ac","toSide":"bottom"}
+	]
+}
