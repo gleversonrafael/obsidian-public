@@ -1,13 +1,6 @@
 {
 	"nodes":[
-		{"id":"5c1411bec506db79","type":"text","text":"Começo da reportagem","x":-150,"y":80,"width":250,"height":60},
-		{"id":"865d35e7e5c22b98","type":"text","text":"Afirmação -> Defendê-la","x":65,"y":240,"width":250,"height":60},
-		{"id":"bbda4a61f9550429","type":"text","text":"<h1> Reportagem </h1>","x":-150,"y":-186,"width":340,"height":112,"color":"5"},
-		{"id":"bde25f8f69900b24","type":"text","text":"CANELA E CONFREI","x":620,"y":-130,"width":250,"height":60},
 		{"id":"f1a5d54793de8abc","type":"text","text":"[[estrutura-trabalho]]","x":315,"y":-160,"width":250,"height":60},
-		{"id":"9e894c85a4a230ad","type":"text","text":"Papéis","x":-480,"y":-160,"width":250,"height":60},
-		{"id":"fee06f425572d1a1","type":"text","text":"5 participantes","x":-855,"y":-250,"width":250,"height":60},
-		{"id":"383d36abbc1f1afb","type":"text","text":"Vestimentas conformes","x":-855,"y":-138,"width":250,"height":60},
 		{"id":"28748e4bbe6e6101","type":"text","text":"Pergunta","x":-360,"y":650,"width":250,"height":60},
 		{"id":"5c0ae791462d8471","type":"text","text":"Cenário: Estúdio (biblioteca)","x":20,"y":580,"width":250,"height":60},
 		{"id":"155fb68f5688e82f","type":"text","text":"Pergunta","x":-360,"y":1400,"width":250,"height":60},
@@ -22,7 +15,6 @@
 		{"id":"ce318176da1b667e","type":"text","text":"Forma de cultivo","x":777,"y":1180,"width":250,"height":60},
 		{"id":"da4a1ca614a40b40","type":"text","text":"Utilização medicinal","x":902,"y":1511,"width":250,"height":60},
 		{"id":"a01c2cce8259463a","type":"text","text":"Apresentador: Kayron faz a pergunta","x":20,"y":700,"width":250,"height":60},
-		{"id":"8842200a08768440","type":"text","text":"1 apresentador: Kayron\n1 repórter A: João\n1 repórter B: Gleverson\n1 cientista / aluno (canela): Gabriel Soares\n1 cientista / aluno (confrei): Gabriel Alves","x":-904,"y":-500,"width":349,"height":206},
 		{"id":"66abac445a05db54","type":"text","text":"Resposta","x":-360,"y":1220,"width":250,"height":60},
 		{"id":"0d47ec74113a94e3","type":"text","text":"Confrei","x":-360,"y":1560,"width":250,"height":60},
 		{"id":"8ac9680238ebadf8","type":"text","text":"Resposta","x":-360,"y":1740,"width":250,"height":60},
@@ -36,11 +28,17 @@
 		{"id":"110409fd5309da5b","type":"text","text":"Forma de uso","x":-1231,"y":1611,"width":250,"height":60},
 		{"id":"b8628176de6ebeed","type":"text","text":"Alguma curiosidade","x":-909,"y":2051,"width":250,"height":60},
 		{"id":"f5df65118e1de339","type":"text","text":"Parte 3 \nVoltaria na pessoa, que finalizaria, em utilização medicinal\nReporter fala alguma curiosidade","x":-1231,"y":1879,"width":250,"height":202},
-		{"id":"28d86204ea2defdf","type":"text","text":"Utilização medicinal","x":-909,"y":1950,"width":250,"height":60}
+		{"id":"28d86204ea2defdf","type":"text","text":"Utilização medicinal","x":-909,"y":1950,"width":250,"height":60},
+		{"id":"5c1411bec506db79","type":"text","text":"Começo da reportagem","x":-235,"y":280,"width":250,"height":60},
+		{"id":"fee06f425572d1a1","type":"text","text":"5 participantes","x":-1056,"y":-246,"width":250,"height":60},
+		{"id":"383d36abbc1f1afb","type":"text","text":"Vestimentas conformes","x":-1056,"y":-134,"width":250,"height":60},
+		{"id":"9e894c85a4a230ad","type":"text","text":"Papéis","x":-681,"y":-156,"width":250,"height":60},
+		{"id":"8842200a08768440","type":"text","text":"1 apresentador: Kayron\n1 repórter A: João\n1 repórter B: Gleverson\n1 cientista / aluno (canela): Gabriel Soares\n1 cientista / aluno (confrei): Gabriel Alves","x":-1105,"y":-496,"width":349,"height":206},
+		{"id":"bbda4a61f9550429","type":"text","text":"<h1> Reportagem </h1>\n<h2> Canela e Confrei </h2>","x":-235,"y":-86,"width":340,"height":112,"color":"4"},
+		{"id":"611039ded441058b","type":"text","text":"![[herbaceal-icone.png]]","x":-235,"y":-440,"width":340,"height":354,"color":"4"}
 	],
 	"edges":[
 		{"id":"60ae96cf69752620","fromNode":"28748e4bbe6e6101","fromSide":"top","toNode":"5c1411bec506db79","toSide":"bottom","toEnd":"none"},
-		{"id":"c13d23c2dc9ed9a2","fromNode":"865d35e7e5c22b98","fromSide":"top","toNode":"5c1411bec506db79","toSide":"bottom","toEnd":"none"},
 		{"id":"be7e5488de6122b5","fromNode":"775aabbb3215669c","fromSide":"top","toNode":"28748e4bbe6e6101","toSide":"bottom","toEnd":"none"},
 		{"id":"fe2fd367ccb6fcef","fromNode":"775aabbb3215669c","fromSide":"bottom","toNode":"66abac445a05db54","toSide":"top","toEnd":"none"},
 		{"id":"cc7985418758e0c9","fromNode":"bbda4a61f9550429","fromSide":"bottom","toNode":"5c1411bec506db79","toSide":"top","toEnd":"none"},
