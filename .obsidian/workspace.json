@@ -6,7 +6,6 @@
       {
         "id": "3d8aecc8e7f23848",
         "type": "tabs",
-        "dimension": 68.67541766109785,
         "children": [
           {
             "id": "c269a37e738a0d41",
@@ -16,34 +15,13 @@
               "state": {
                 "file": "proj007-biology-report/canvas/biology-report-structure.canvas",
                 "viewState": {
-                  "x": 502.4194281977302,
-                  "y": -87.47655525295576,
-                  "zoom": -1.6666666666666665
+                  "x": 228.10868122155935,
+                  "y": 1139.2947985521955,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "biology-report-structure"
-            }
-          }
-        ]
-      },
-      {
-        "id": "35d4c97abbb876ed",
-        "type": "tabs",
-        "dimension": 31.324582338902147,
-        "children": [
-          {
-            "id": "b8b912f210e4b8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proj007-biology-report/notes/estrutura-trabalho.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "estrutura-trabalho"
             }
           }
         ]
@@ -215,9 +193,16 @@
   },
   "active": "c269a37e738a0d41",
   "lastOpenFiles": [
-    "proj007-biology-report/references/herbaceal-icone.png",
-    "proj007-biology-report/canvas/biology-report-structure.canvas",
     "proj007-biology-report/notes/estrutura-trabalho.md",
+    "proj007-biology-report/canvas/biology-report-structure.canvas",
+    "proj007-biology-report/notes/canela/curiosidade-canela.md",
+    "proj007-biology-report/notes/canela/apresentacao-canela.md",
+    "proj007-biology-report/notes/canela/forma-cultivo-canela.md",
+    "proj007-biology-report/notes/canela/forma-uso-canela.md",
+    "proj007-biology-report/notes/canela/historico-canela.md",
+    "proj007-biology-report/notes/canela/utilizacao-medicinal-canela.md",
+    "proj007-biology-report/notes/canela",
+    "proj007-biology-report/references/herbaceal-icone.png",
     "proj006-portuguese-terra-papagalli/Sem título.canvas",
     "proj005-geography-ILPF/canvas.canvas",
     "proj005-geography-ILPF/notes/Principais características.md",
@@ -241,13 +226,7 @@
     "proj004-imc-manual/notes/usb-and-more/USB-C.md",
     "proj004-imc-manual/notes/usb-and-more/USB-B.md",
     "proj004-imc-manual/notes/usb-and-more/USB-A.md",
-    "proj004-imc-manual/notes/usb-and-more/USB.md",
-    "proj004-imc-manual/Checklist.md",
-    "proj004-imc-manual/notes/usb-and-more/Desafio.md",
     "proj004-imc-manual/notes/usb-and-more",
-    "proj004-imc-manual/notes/Comparações Visuais.md",
-    "proj004-imc-manual/notes/Áudio.md",
-    "proj004-imc-manual/notes/Rede.md",
     "proj004-imc-manual/canvas/Sem título.canvas",
     "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",
     "proj002-geography-public-hearing/canvas/Problemas Ambientais.canvas",
