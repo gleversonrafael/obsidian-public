@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"f1a5d54793de8abc","type":"text","text":"[[estrutura-trabalho]]","x":315,"y":-160,"width":250,"height":60},
 		{"id":"28748e4bbe6e6101","type":"text","text":"Pergunta","x":-360,"y":650,"width":250,"height":60},
 		{"id":"5c0ae791462d8471","type":"text","text":"Cenário: Estúdio (biblioteca)","x":20,"y":580,"width":250,"height":60},
 		{"id":"155fb68f5688e82f","type":"text","text":"Pergunta","x":-360,"y":1400,"width":250,"height":60},
@@ -17,27 +16,29 @@
 		{"id":"d03bfd10698cefc9","type":"text","text":"Bordão final (Kayron finaliza)","x":-360,"y":1920,"width":250,"height":60},
 		{"id":"ee470e34e144f022","type":"text","text":"","x":-806,"y":1524,"width":250,"height":60},
 		{"id":"c99ddcd58b9f4798","type":"text","text":"Parte 1: \nPessoa falando","x":-1532,"y":1150,"width":250,"height":60},
-		{"id":"d67cff09b1ae1b7e","type":"text","text":"Apresentação (Gleverson)","x":-1230,"y":967,"width":250,"height":60},
-		{"id":"839fb897700b5df0","type":"text","text":"Histórico (Gleverson)","x":-1230,"y":1057,"width":250,"height":60},
+		{"id":"d67cff09b1ae1b7e","type":"text","text":"[[apresentacao-confrei]]","x":-1230,"y":967,"width":250,"height":60},
+		{"id":"839fb897700b5df0","type":"text","text":"[[historico-confrei]]","x":-1230,"y":1057,"width":250,"height":60},
 		{"id":"8656609f1dbe1be1","type":"text","text":"Parte 2:\nMesma pessoa falando, mas sem mostrar o rosto (um monte de imagem)","x":-1600,"y":1532,"width":250,"height":140},
-		{"id":"59279c7980781f17","type":"text","text":"Forma de cultivo (Gleverson)","x":-1187,"y":1511,"width":250,"height":60},
-		{"id":"110409fd5309da5b","type":"text","text":"Forma de uso (Gleverson)","x":-1231,"y":1611,"width":250,"height":60},
-		{"id":"b8628176de6ebeed","type":"text","text":"Alguma curiosidade (Gleverson)","x":-909,"y":2051,"width":250,"height":89},
+		{"id":"59279c7980781f17","type":"text","text":"[[forma-cultivo-confrei]]","x":-1187,"y":1511,"width":250,"height":60},
+		{"id":"110409fd5309da5b","type":"text","text":"[[forma-uso-confrei]]","x":-1231,"y":1611,"width":250,"height":60},
+		{"id":"b8628176de6ebeed","type":"text","text":"[[curiosidade-confrei]]","x":-909,"y":2051,"width":250,"height":89},
 		{"id":"f5df65118e1de339","type":"text","text":"Parte 3 \nVoltaria na pessoa, que finalizaria, em utilização medicinal\nReporter fala alguma curiosidade","x":-1231,"y":1879,"width":250,"height":202},
 		{"id":"28d86204ea2defdf","type":"text","text":"Utilização medicinal (Gabriel Alves)","x":-909,"y":1950,"width":250,"height":60},
-		{"id":"5c1411bec506db79","type":"text","text":"Começo da reportagem","x":-235,"y":280,"width":250,"height":60},
-		{"id":"fee06f425572d1a1","type":"text","text":"5 participantes","x":-1056,"y":-246,"width":250,"height":60},
-		{"id":"383d36abbc1f1afb","type":"text","text":"Vestimentas conformes","x":-1056,"y":-134,"width":250,"height":60},
-		{"id":"9e894c85a4a230ad","type":"text","text":"Papéis","x":-681,"y":-156,"width":250,"height":60},
-		{"id":"8842200a08768440","type":"text","text":"1 apresentador: Kayron\n1 repórter A: João\n1 repórter B: Gleverson\n1 cientista / aluno (canela): Gabriel Soares\n1 cientista / aluno (confrei): Gabriel Alves","x":-1105,"y":-496,"width":349,"height":206},
-		{"id":"bbda4a61f9550429","type":"text","text":"<h1> Reportagem </h1>\n<h2> Canela e Confrei </h2>","x":-235,"y":-86,"width":340,"height":112,"color":"4"},
-		{"id":"611039ded441058b","type":"text","text":"![[herbaceal-icone.png]]","x":-235,"y":-440,"width":340,"height":354,"color":"4"},
 		{"id":"7da8b9a7f7e5d694","type":"text","text":"Apresentação\n[[apresentacao-canela]]","x":608,"y":880,"width":250,"height":60},
 		{"id":"96cc6dd3de321242","type":"text","text":"Histórico\n[[historico-canela]]","x":608,"y":980,"width":250,"height":60},
 		{"id":"60ee68810292f36e","type":"text","text":"Alguma curiosidade\n[[curiosidade-canela]]","x":902,"y":1612,"width":250,"height":88},
 		{"id":"b1a6a0f0a37ae6e3","type":"text","text":"Pesquisar\nJoão Vitor\nGabriel Soares","x":-140,"y":850,"width":250,"height":110},
 		{"id":"b9b6051ed8467ea8","type":"text","text":"Pesquisar\nGabriel Alves\nGleverson","x":-880,"y":1195,"width":250,"height":110},
-		{"id":"a01c2cce8259463a","type":"text","text":"Apresentador: Kayron faz a pergunta","x":20,"y":680,"width":250,"height":60}
+		{"id":"a01c2cce8259463a","type":"text","text":"Apresentador: Kayron faz a pergunta","x":20,"y":680,"width":250,"height":60},
+		{"id":"5c1411bec506db79","type":"text","text":"Começo da reportagem","x":-361,"y":376,"width":250,"height":60},
+		{"id":"611039ded441058b","type":"text","text":"![[herbaceal-icone.png]]","x":-406,"y":-304,"width":340,"height":354,"color":"4"},
+		{"id":"f1a5d54793de8abc","type":"text","text":"[[estrutura-trabalho]]","x":144,"y":-24,"width":250,"height":60},
+		{"id":"bbda4a61f9550429","type":"text","text":"<h1> Reportagem </h1>\n<h2> Canela e Confrei </h2>","x":-406,"y":50,"width":340,"height":112,"color":"4"},
+		{"id":"62ba0a30e1b3ddd0","type":"text","text":"[[transcricao-reportagem]]","x":144,"y":76,"width":250,"height":60},
+		{"id":"8842200a08768440","type":"text","text":"1 apresentador: Kayron\n1 repórter A: João\n1 repórter B: Gleverson\n1 cientista / aluno (canela): Gabriel Soares\n1 cientista / aluno (confrei): Gabriel Alves","x":-1276,"y":-360,"width":349,"height":206},
+		{"id":"fee06f425572d1a1","type":"text","text":"5 participantes","x":-1227,"y":-110,"width":250,"height":60},
+		{"id":"9e894c85a4a230ad","type":"text","text":"Papéis","x":-852,"y":-20,"width":250,"height":60},
+		{"id":"383d36abbc1f1afb","type":"text","text":"Vestimentas conformes","x":-1227,"y":2,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"60ae96cf69752620","fromNode":"28748e4bbe6e6101","fromSide":"top","toNode":"5c1411bec506db79","toSide":"bottom","toEnd":"none"},
@@ -75,6 +76,7 @@
 		{"id":"92081d8dc9841b3d","fromNode":"ee470e34e144f022","fromSide":"right","toNode":"0d47ec74113a94e3","toSide":"left","toEnd":"none"},
 		{"id":"b6890997287c0168","fromNode":"775aabbb3215669c","fromSide":"top","toNode":"b1a6a0f0a37ae6e3","toSide":"bottom","toEnd":"none"},
 		{"id":"ef765135eb7c064f","fromNode":"b9b6051ed8467ea8","fromSide":"right","toNode":"0d47ec74113a94e3","toSide":"left","toEnd":"none"},
-		{"id":"372b46c21974854e","fromNode":"28748e4bbe6e6101","fromSide":"right","toNode":"a01c2cce8259463a","toSide":"left","toEnd":"none"}
+		{"id":"372b46c21974854e","fromNode":"28748e4bbe6e6101","fromSide":"right","toNode":"a01c2cce8259463a","toSide":"left","toEnd":"none"},
+		{"id":"e7aaf912a99db74a","fromNode":"bbda4a61f9550429","fromSide":"right","toNode":"62ba0a30e1b3ddd0","toSide":"left","toEnd":"none"}
 	]
 }

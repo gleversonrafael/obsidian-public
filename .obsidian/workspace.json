@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "proj007-biology-report/canvas/biology-report-structure.canvas",
+                "file": "proj008-the-noite-sociology/canvas/main-sociology.canvas",
                 "viewState": {
-                  "x": 228.10868122155935,
-                  "y": 1139.2947985521955,
-                  "zoom": -0.6666666666666667
+                  "x": 48.05909807078534,
+                  "y": -510.8678493280089,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "biology-report-structure"
+              "title": "main-sociology"
             }
           }
         ]
@@ -193,13 +193,25 @@
   },
   "active": "c269a37e738a0d41",
   "lastOpenFiles": [
-    "proj007-biology-report/notes/estrutura-trabalho.md",
     "proj007-biology-report/canvas/biology-report-structure.canvas",
+    "proj008-the-noite-sociology/canvas/main-sociology.canvas",
+    "proj007-biology-report/notes/confrei/apresentacao-confrei.md",
+    "proj008-the-noite-sociology/references",
+    "proj008-the-noite-sociology/canvas",
+    "proj008-the-noite-sociology/notes",
+    "proj008-the-noite-sociology",
+    "proj007-biology-report/notes/confrei/forma-uso-confrei.md",
+    "proj007-biology-report/notes/canela/historico-canela.md",
+    "proj007-biology-report/notes/transcricao-reportagem.md",
+    "proj007-biology-report/notes/estrutura-trabalho.md",
+    "proj007-biology-report/notes/confrei/curiosidade-confrei.md",
+    "proj007-biology-report/notes/confrei/forma-cultivo-confrei.md",
+    "proj007-biology-report/notes/confrei/historico-confrei.md",
+    "proj007-biology-report/notes/confrei",
     "proj007-biology-report/notes/canela/curiosidade-canela.md",
     "proj007-biology-report/notes/canela/apresentacao-canela.md",
     "proj007-biology-report/notes/canela/forma-cultivo-canela.md",
     "proj007-biology-report/notes/canela/forma-uso-canela.md",
-    "proj007-biology-report/notes/canela/historico-canela.md",
     "proj007-biology-report/notes/canela/utilizacao-medicinal-canela.md",
     "proj007-biology-report/notes/canela",
     "proj007-biology-report/references/herbaceal-icone.png",
@@ -220,12 +232,6 @@
     "proj004-imc-manual/notes/usb-and-more/VGA.md",
     "proj004-imc-manual/notes/usb-and-more/DisplayPort.md",
     "proj002-geography-public-hearing/HDMI.md",
-    "proj004-imc-manual/notes/usb-and-more/Comparação.md",
-    "proj004-imc-manual/notes/Micro-USB.md",
-    "proj004-imc-manual/notes/usb-and-more/Mini-USB.md",
-    "proj004-imc-manual/notes/usb-and-more/USB-C.md",
-    "proj004-imc-manual/notes/usb-and-more/USB-B.md",
-    "proj004-imc-manual/notes/usb-and-more/USB-A.md",
     "proj004-imc-manual/notes/usb-and-more",
     "proj004-imc-manual/canvas/Sem título.canvas",
     "proj002-geography-public-hearing/canvas/Tecnologia e Direitos Humanos.canvas",

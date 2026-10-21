@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"aac11763f21b97ed","type":"text","text":"<h1> la tarde </h1>\ncon Alencar","x":-860,"y":-170,"width":250,"height":90,"color":"2"},
+		{"id":"69e7ff8514b116a2","type":"text","text":"Atores","x":-1540,"y":-215,"width":250,"height":60},
+		{"id":"ddb6c1789fc94a5f","type":"text","text":"Entrevistador: Gleverson\nEntrevistados: Gabriel Alves, Gabriel Soares, João Vitor\nDiguinho: Kayron\nPlateia: Fernando","x":-2020,"y":-440,"width":250,"height":160},
+		{"id":"2a52619b4e237683","type":"text","text":"AI","x":-400,"y":-155,"width":250,"height":60},
+		{"id":"72591b5f07ffb3f1","type":"text","text":"Estilo brasileiro elegante, com um ambiente rico em iluminações, inspirado em talk shows dos anos 70, mas ainda com cores vibrantes brasileiras, com tom artístico inspirado em Cândido Portinari\nAmbiente formal que faz contraste com as piadas","x":-1080,"y":60,"width":250,"height":260},
+		{"id":"32f858d6ffeb543e","type":"text","text":"Cores principais: Amarelo, vermelho e laranja","x":-762,"y":81,"width":250,"height":79},
+		{"id":"a182edf6db4be8f7","type":"text","text":"# Objective\n\nGenerate a script for a talk show. It will be heavily inspired in brazilian podcast \"The noite com Danilo Gentili\", whose theme is Sociedade da informação: o surgimento da revolução digital.\n\n# Context\n\n[Provide relevant background, existing knowledge, materials, and previous decisions.]\n\n# Constraints\n\n- [Knowledge level, budget, technical limitations, or other requirements.]\n    \n- [What must be preserved or avoided.]\n    \n\n# Approach\n\n[Describe the desired method, sequence, or evaluation criteria, if relevant.]\n\n# Output\n\n[Specify the structure, format, length, language, and level of detail.]\n\n# Quality criteria\n\n- Accuracy: [What must be correct?]\n    \n- Completeness: [What must be included?]\n    \n- Usability: [How will I use the result?]\n    \n\n# Uncertainty and verification\n\nDistinguish facts from assumptions. Identify missing information that could materially change the result. Verify important claims using appropriate tools or sources when available. Do not claim verification that has not occurred.\n\n# Interaction\n\nIf an essential detail is missing, ask a focused clarifying question. Otherwise, proceed with reasonable, explicitly stated assumptions. If the task is complex, divide it into stages and validate important intermediate results.","x":-400,"y":-760,"width":250,"height":460,"color":"1"},
+		{"id":"b6f3e5926f692bc2","type":"text","text":"Roteiro","x":-400,"y":-300,"width":250,"height":60,"color":"2"},
+		{"id":"61c5d6758af11059","type":"text","text":"Imagem","x":-60,"y":-185,"width":250,"height":60},
+		{"id":"4138b46cf938b388","x":-69,"y":-632,"width":250,"height":60,"type":"text","text":"Prompt padrão e efetivo !!!"},
+		{"id":"80344858716f3ff5","type":"text","text":"Exemplo de resposta:\nEntrevistador: Boa tarde, Entrevistados!\nEntrevistado 1: Boa tarde, Entrevistador!\nEntrevistado 2: Boa tarde, Entrevistador!\nEntrevistado 3: Boa tarde, Entrevistador!","x":-1040,"y":-682,"width":448,"height":160}
+	],
+	"edges":[
+		{"id":"f023f11d5e422bf2","fromNode":"69e7ff8514b116a2","fromSide":"left","toNode":"ddb6c1789fc94a5f","toSide":"bottom","toEnd":"none"},
+		{"id":"bccca95ecfff4ab5","fromNode":"69e7ff8514b116a2","fromSide":"right","toNode":"aac11763f21b97ed","toSide":"left","toEnd":"none"},
+		{"id":"829aea60f5d3e331","fromNode":"b6f3e5926f692bc2","fromSide":"left","toNode":"80344858716f3ff5","toSide":"bottom","toEnd":"none"},
+		{"id":"39244de4db1b0656","fromNode":"aac11763f21b97ed","fromSide":"right","toNode":"2a52619b4e237683","toSide":"left","toEnd":"none"},
+		{"id":"ffd63691398bc1e2","fromNode":"72591b5f07ffb3f1","fromSide":"top","toNode":"aac11763f21b97ed","toSide":"bottom","toEnd":"none"},
+		{"id":"6bd30f7affedb661","fromNode":"aac11763f21b97ed","fromSide":"bottom","toNode":"32f858d6ffeb543e","toSide":"top","toEnd":"none"},
+		{"id":"16f04e87bec09969","fromNode":"2a52619b4e237683","fromSide":"top","toNode":"b6f3e5926f692bc2","toSide":"bottom","toEnd":"none"},
+		{"id":"1c2f921a5193f05f","fromNode":"2a52619b4e237683","fromSide":"right","toNode":"61c5d6758af11059","toSide":"left","toEnd":"none"},
+		{"id":"25d620628967997f","fromNode":"4138b46cf938b388","fromSide":"left","toNode":"a182edf6db4be8f7","toSide":"right","toEnd":"none"}
+	]
+}
