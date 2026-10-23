@@ -17,9 +17,6 @@
 		{"id":"57ec2ca34dadfe3b","type":"text","text":"## 3. O surgimento e história da Revolução Digital","x":-3796,"y":504,"width":250,"height":140},
 		{"id":"4b76b6e6082a1d13","type":"text","text":"Entrevistador pergunta","x":-2980,"y":614,"width":250,"height":60},
 		{"id":"9ae2c53769ef371d","type":"text","text":"Steve Jobs","x":-2620,"y":476,"width":250,"height":60},
-		{"id":"fb30364bf82efc4d","type":"text","text":"Bill Gates","x":-2620,"y":585,"width":250,"height":60},
-		{"id":"dfc62f97496892fe","type":"text","text":"Mark Zuckenberg","x":-2620,"y":700,"width":250,"height":60},
-		{"id":"5864d7707aa517d7","type":"text","text":"Elon Musk","x":-2620,"y":813,"width":250,"height":60},
 		{"id":"9d4476715b1d1a98","type":"text","text":"Dopamina (Tik Tok)","x":-4646,"y":1697,"width":250,"height":60},
 		{"id":"8a7a71468881e53a","type":"text","text":"Instagram","x":-4840,"y":828,"width":250,"height":55},
 		{"id":"6795f5e7948892a0","type":"text","text":"Tik Tok","x":-4840,"y":923,"width":250,"height":60},
@@ -50,8 +47,6 @@
 		{"id":"80344858716f3ff5","type":"text","text":"Exemplo de resposta:\nEntrevistador: Boa tarde, Entrevistados!\nEntrevistado 1: Boa tarde, Entrevistador!\nEntrevistado 2: Boa tarde, Entrevistador!\nEntrevistado 3: Boa tarde, Entrevistador!","x":-575,"y":-1730,"width":448,"height":160},
 		{"id":"ddb6c1789fc94a5f","type":"text","text":"Entrevistador: Gleverson\nEntrevistados: Gabriel Alves, Gabriel Soares, João Vitor\nDiguinho: Kayron\nPlateia: Fernando","x":-1555,"y":-1488,"width":250,"height":160},
 		{"id":"69e7ff8514b116a2","type":"text","text":"Atores","x":-1075,"y":-1263,"width":250,"height":60},
-		{"id":"1d55e67ee90e868c","type":"text","text":"Animes","x":-3024,"y":1746,"width":250,"height":60},
-		{"id":"a787c80d6f4e0fee","type":"text","text":"Netflix","x":-3360,"y":1716,"width":250,"height":60},
 		{"id":"4e1eb54d400e99ce","type":"text","text":"Momento das dúvidas da turma","x":-3796,"y":2700,"width":250,"height":60},
 		{"id":"bec1f46d85c260b2","type":"text","text":"O que precisa melhorar","x":-2140,"y":-1190,"width":250,"height":60},
 		{"id":"33291625750ec4c4","type":"text","text":"Remover Elon Musk e Bill Gates","x":-3305,"y":-876,"width":250,"height":60},
@@ -62,7 +57,12 @@
 		{"id":"2d465dc0e0951ea6","type":"text","text":"Falar sobre:\nMark Zuckenberg e Steve Jobs\n","x":-2920,"y":-932,"width":250,"height":112},
 		{"id":"0faf6f6bd7d47d4d","type":"text","text":"Resumir do 61 ao 65 e emendá-los no 26.","x":-3162,"y":-1523,"width":282,"height":60},
 		{"id":"96755647e9bfaa92","type":"text","text":"Reduzir temas semelhantes e que podem ser inferidos por contexto prévio\nTecnologia ajudar pessoas\nRedes sociais ajudarem pessoais","x":-3486,"y":-1330,"width":566,"height":140},
-		{"id":"1b474c5e6207b50f","x":-3086,"y":-1960,"width":406,"height":103,"type":"text","text":"Linha cronológica\nMario e Sonic -> Roblox -> Minecraft -> Brawl Stars"}
+		{"id":"1b474c5e6207b50f","type":"text","text":"Linha cronológica\nMario e Sonic -> Roblox -> Minecraft -> Brawl Stars","x":-3086,"y":-1960,"width":406,"height":103},
+		{"id":"a2be8203f4f7ee8e","x":-3295,"y":1817,"width":250,"height":60,"type":"text","text":"Series, Filmes, Desenhos, ANIMES"},
+		{"id":"a787c80d6f4e0fee","type":"text","text":"Streaming","x":-3296,"y":1654,"width":250,"height":60},
+		{"id":"27f350b07e05f51b","x":-1020,"y":1459,"width":250,"height":50,"type":"text","text":"comunidades"},
+		{"id":"dfc62f97496892fe","type":"text","text":"Mark Zuckenberg","x":-2620,"y":614,"width":250,"height":60},
+		{"id":"9e72abc8fb07f207","x":-2855,"y":-1190,"width":250,"height":60,"color":"4","type":"text","text":"Comunidades "}
 	],
 	"edges":[
 		{"id":"f023f11d5e422bf2","fromNode":"69e7ff8514b116a2","fromSide":"left","toNode":"ddb6c1789fc94a5f","toSide":"bottom","toEnd":"none"},
@@ -91,8 +91,6 @@
 		{"id":"40ceb6e51ae86764","fromNode":"7c16e7dbc58e45b2","fromSide":"right","toNode":"4b76b6e6082a1d13","toSide":"left","toEnd":"none"},
 		{"id":"ad27d3c00935c4b9","fromNode":"4b76b6e6082a1d13","fromSide":"right","toNode":"9ae2c53769ef371d","toSide":"left","toEnd":"none"},
 		{"id":"0d675ed3aa267582","fromNode":"4b76b6e6082a1d13","fromSide":"right","toNode":"dfc62f97496892fe","toSide":"left","toEnd":"none"},
-		{"id":"b8a914919511b20e","fromNode":"4b76b6e6082a1d13","fromSide":"right","toNode":"5864d7707aa517d7","toSide":"left","toEnd":"none"},
-		{"id":"d960970712a62d63","fromNode":"4b76b6e6082a1d13","fromSide":"right","toNode":"fb30364bf82efc4d","toSide":"left","toEnd":"none"},
 		{"id":"f7327faa148a1166","fromNode":"8a7a71468881e53a","fromSide":"right","toNode":"a93e9f7f914f1e55","toSide":"left","toEnd":"none"},
 		{"id":"f9bf2b4d1fb797e8","fromNode":"6795f5e7948892a0","fromSide":"right","toNode":"a93e9f7f914f1e55","toSide":"left","toEnd":"none"},
 		{"id":"a946456256425d6c","fromNode":"9d4476715b1d1a98","fromSide":"right","toNode":"575fc4095e66b6d5","toSide":"left","toEnd":"none"},
@@ -107,7 +105,6 @@
 		{"id":"5c0877ecc9a7fc5d","fromNode":"719a0dac580ac49b","fromSide":"right","toNode":"c7108ac101f7d9e6","toSide":"left","toEnd":"none"},
 		{"id":"dffaa26f747f2ae4","fromNode":"7780fdedb1fceac9","fromSide":"right","toNode":"2316cc43543f1a98","toSide":"left","toEnd":"none"},
 		{"id":"5dcd51849a3304ec","fromNode":"2316cc43543f1a98","fromSide":"bottom","toNode":"a787c80d6f4e0fee","toSide":"top","toEnd":"none"},
-		{"id":"257a22a153a7deb3","fromNode":"2316cc43543f1a98","fromSide":"bottom","toNode":"1d55e67ee90e868c","toSide":"top","toEnd":"none"},
 		{"id":"27634d6a89e9955f","fromNode":"441bdb5d3c3b8aa8","fromSide":"bottom","toNode":"4e1eb54d400e99ce","toSide":"top","toEnd":"none"},
 		{"id":"467671f09b3f7ffe","fromNode":"bec1f46d85c260b2","fromSide":"right","toNode":"ef1ff01971c48ff0","toSide":"left","toEnd":"none"},
 		{"id":"0a04e9ca153f6bec","fromNode":"bec1f46d85c260b2","fromSide":"left","toNode":"6ed021c66ecb5a14","toSide":"right","toEnd":"none"},
@@ -124,6 +121,13 @@
 		{"id":"1f57e77dd635ddd7","fromNode":"c30fb06bf0224002","fromSide":"right","toNode":"5706bffdce3c319f","toSide":"left","toEnd":"none"},
 		{"id":"a1f7eb8431fed9f0","fromNode":"aa7187021f4b22cf","fromSide":"right","toNode":"5706bffdce3c319f","toSide":"left","toEnd":"none"},
 		{"id":"e4b38f1888b29619","fromNode":"0faf6f6bd7d47d4d","fromSide":"right","toNode":"bec1f46d85c260b2","toSide":"left","toEnd":"none"},
-		{"id":"d92d2d84dfbec1b3","fromNode":"1b474c5e6207b50f","fromSide":"right","toNode":"bec1f46d85c260b2","toSide":"left","toEnd":"none"}
+		{"id":"d92d2d84dfbec1b3","fromNode":"1b474c5e6207b50f","fromSide":"right","toNode":"bec1f46d85c260b2","toSide":"left","toEnd":"none"},
+		{"id":"9513e6f4faf72987","fromNode":"a787c80d6f4e0fee","fromSide":"bottom","toNode":"a2be8203f4f7ee8e","toSide":"top"},
+		{"id":"da9aa5b5bbd999ec","fromNode":"28d6a2bd2ade3af5","fromSide":"right","toNode":"27f350b07e05f51b","toSide":"left"},
+		{"id":"7fcc09612383670f","fromNode":"b263700ea63559b9","fromSide":"right","toNode":"27f350b07e05f51b","toSide":"left"},
+		{"id":"7f186c86932d6060","fromNode":"a646ada982def4f7","fromSide":"right","toNode":"27f350b07e05f51b","toSide":"left"},
+		{"id":"e845c183312b2c56","fromNode":"c7108ac101f7d9e6","fromSide":"right","toNode":"27f350b07e05f51b","toSide":"left"},
+		{"id":"590339b9fb313344","fromNode":"a2be8203f4f7ee8e","fromSide":"bottom","toNode":"27f350b07e05f51b","toSide":"bottom"},
+		{"id":"d1d1cb48d63ef3b2","fromNode":"bec1f46d85c260b2","fromSide":"left","toNode":"9e72abc8fb07f207","toSide":"right"}
 	]
 }
